@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/HarmerLab/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/HarmerLabWebSite/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/HarmerLab/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/HarmerLabWebSite/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -32,64 +32,56 @@
 
 	<!-- Search Engine Optimization -->
 	<meta name="description" content="This is the website for the Harmer lab, located in the Department of Plant Biology at the University of California, Davis.&lt;/a">
-	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
-	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
-	
-	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="http://localhost:4000/HarmerLab/assets/xslt/atom.xslt">
+	
+	
+	
+	
+	<link rel="canonical" href="http://localhost:4000/HarmerLabWebSite/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="This is the website for the Harmer lab, located in the Department of Plant Biology at the University of California, Davis.&lt;/a">
-	<meta property="og:url" content="http://localhost:4000/HarmerLab/assets/xslt/atom.xslt">
+	<meta property="og:url" content="http://localhost:4000/HarmerLabWebSite/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Harmer Lab">
 	
-	<meta property="article:author" content="https://www.facebook.com/phlow.media">
+	
 
 
 	
-	<!-- Twitter -->
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="phlow">
-	<meta name="twitter:creator" content="phlow">
-	<meta name="twitter:title" content="Atom Feed (Styled)">
-	<meta name="twitter:description" content="This is the website for the Harmer lab, located in the Department of Plant Biology at the University of California, Davis.&lt;/a">
-	
-	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/HarmerLab/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/HarmerLabWebSite/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/HarmerLab/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/HarmerLabWebSite/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/HarmerLab/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/HarmerLabWebSite/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/HarmerLab/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/HarmerLab/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/HarmerLab/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/HarmerLab/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/HarmerLab/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/HarmerLab/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/HarmerLab/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/HarmerLab/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="http://localhost:4000/HarmerLab/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/HarmerLabWebSite/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -105,7 +97,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/HarmerLab" class="icon-tree"> Harmer Lab</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/HarmerLabWebSite" class="icon-tree"> Harmer Lab</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -164,7 +156,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/HarmerLab/contact/">Contact</a></li>
+              <li><a  href="http://localhost:4000/HarmerLabWebSite/contact/">Contact</a></li>
 
             
             
@@ -189,7 +181,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/HarmerLab/">Home</a></li>
+              <li><a  href="http://localhost:4000/HarmerLabWebSite/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -204,7 +196,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/HarmerLab/research/">Research</a></li>
+              <li><a  href="http://localhost:4000/HarmerLabWebSite/research/">Research</a></li>
               <li class="divider"></li>
 
             
@@ -219,7 +211,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/HarmerLab/lab-members/">Lab members</a></li>
+              <li><a  href="http://localhost:4000/HarmerLabWebSite/lab-members/">Lab members</a></li>
               <li class="divider"></li>
 
             
@@ -234,7 +226,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/HarmerLab/publications/">Publications</a></li>
+              <li><a  href="http://localhost:4000/HarmerLabWebSite/publications/">Publications</a></li>
               <li class="divider"></li>
 
             
@@ -251,14 +243,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/HarmerLab/news/">News</a>
+                <a  href="http://localhost:4000/HarmerLabWebSite/news/">News</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/HarmerLab/news/archive/">News Archive</a></li>
+                      <li><a  href="http://localhost:4000/HarmerLabWebSite/news/archive/">News Archive</a></li>
                     
                   </ul>
 
@@ -275,7 +267,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/HarmerLab/funding/">Funding</a></li>
+              <li><a  href="http://localhost:4000/HarmerLabWebSite/funding/">Funding</a></li>
               <li class="divider"></li>
 
             
@@ -290,7 +282,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/HarmerLab/join/">Join</a></li>
+              <li><a  href="http://localhost:4000/HarmerLabWebSite/join/">Join</a></li>
               <li class="divider"></li>
 
             
@@ -313,24 +305,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/HarmerLab/links/">Links</a>
+                <a  href="http://localhost:4000/HarmerLabWebSite/links/">Links</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/HarmerLab/links/safety/">Safety</a></li>
+                      <li><a  href="http://localhost:4000/HarmerLabWebSite/links/safety/">Safety</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/HarmerLab/links/protocols/">Protocols</a></li>
+                      <li><a  href="http://localhost:4000/HarmerLabWebSite/links/protocols/">Protocols</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/HarmerLab/links/seminars/">Seminars</a></li>
+                      <li><a  href="http://localhost:4000/HarmerLabWebSite/links/seminars/">Seminars</a></li>
                     
                   </ul>
 
@@ -350,8 +342,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/HarmerLab/" title="Harmer Lab – Plant circadian rhythms">
-				<img src="http://localhost:4000/HarmerLab/assets/img/logo.png" alt="Harmer Lab – Plant circadian rhythms">
+			<a id="logo" href="http://localhost:4000/HarmerLabWebSite/" title="Harmer Lab – Plant circadian rhythms">
+				<img src="http://localhost:4000/HarmerLabWebSite/assets/img/welcome_logo.png" alt="Harmer Lab – Plant circadian rhythms">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -429,7 +421,7 @@
 
             <p class="shadow-black">
               This is the website for the Harmer lab, located in the <a href="http://www-plb.ucdavis.edu">Department of Plant Biology</a> at the <a href="https://www.ucdavis.edu">University of California, Davis.</a
-              <a href="http://localhost:4000/HarmerLab/info/">More ›</a>
+              <a href="http://localhost:4000/HarmerLabWebSite/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -453,27 +445,27 @@
               
                 
                   <li >
-                    <a href="http://localhost:4000/HarmerLab"  title=""></a>
+                    <a href="http://localhost:4000/HarmerLabWebSite"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/HarmerLab/contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/HarmerLabWebSite/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/HarmerLab/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/HarmerLabWebSite/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/HarmerLab/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://localhost:4000/HarmerLabWebSite/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/HarmerLab/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/HarmerLabWebSite/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -499,7 +491,7 @@
             
               
                 <li >
-                  <a href="http://localhost:4000/HarmerLab"  title=""></a>
+                  <a href="http://localhost:4000/HarmerLabWebSite"  title=""></a>
                 </li>
             
               
@@ -532,7 +524,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on the theme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
@@ -547,25 +539,13 @@
 		
 
 
-<script src="http://localhost:4000/HarmerLab/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/HarmerLabWebSite/assets/js/javascript.min.js"></script>
 
 
 
 
 
 
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-60112281-1', 'auto');
-  ga('set', 'anonymizeIp', true);
-  ga('send', 'pageview');
-
-</script>
 
 
 
