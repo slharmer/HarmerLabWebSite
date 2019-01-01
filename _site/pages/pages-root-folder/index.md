@@ -3,7 +3,8 @@ show_meta: false
 title: "Home"
 header:
    image_fullwidth: "timecourse_flat_big.png"
-permalink: "/"
+permalink: /index.html
+homepage: true
 ---
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
