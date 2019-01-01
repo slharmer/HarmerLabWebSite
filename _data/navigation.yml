@@ -36,6 +36,7 @@
 - title: Links
   url: "/links/"
   side: left
+  dropdown:
   - title: "Safety"
     url: "/links/safety/"
   - title: "Protocols"
