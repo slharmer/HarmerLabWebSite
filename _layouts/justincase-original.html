@@ -1,0 +1,53 @@
+---
+layout: page
+header:
+  image: "image8_with_welcome_sun2.png"
+  background-color: ""
+permalink: "/papers/"
+---
+
+{% for paper in site.categories.papers %}
+    {% cycle 'add rows': '<div class="row">', nil, nil %}
+		<div class="col-md-4" style="min-height: 140px;">
+            <a href="{{ paper.doi }}">
+                <img width=200 src="{{ paper.image }}">
+            </a>
+            <div>
+                <a href="{{ paper.doi }}">{{ paper.title }}</a>
+                <p>{{ paper.ref }}</p>
+            </div>
+        </div>
+    {% cycle 'close rows': nil, nil, '</div>' %}
+{% endfor %}
+{% cycle 'close rows': nil, '</div>', '</div>' %}
+<div class="spacer"></div>
+
+
+The below works fine too:
+<div class="row">
+  <div class="small-2 columns">I could type in a description of the image that will be displayed next to it.</div>
+  <div class="small-10 columns">This is the caption above the image. I could make this quite long if I wanted to, and the magic of responsive image sizing would still work just fine. <img src="{{site.baseurl}}/assets/img/research/complex-clock-sml.png"></div>
+</div>
+<div class="row">
+  <div class="small-3 columns">3 columns</div>
+  <div class="small-9 columns">9 columns</div>
+</div>
+
+
+the below works fine if alone on page:
+
+{% for paper in site.categories.papers %}
+    {% cycle 'add rows': '<div class="row">', nil, nil %}
+		<div class="col-md-4" style="min-height: 140px;">
+            <a href="{{ paper.doi }}">
+                <img width=200 src="{{ paper.image }}">
+            </a>
+            <div>
+                <a href="{{ paper.doi }}">{{ paper.title }}</a>
+                <p>{{ paper.ref }}</p>
+            </div>
+        </div>
+    {% cycle 'close rows': nil, nil, '</div>' %}
+{% endfor %}
+{% cycle 'close rows': nil, '</div>', '</div>' %}
+<div class="spacer"></div>

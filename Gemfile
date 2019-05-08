@@ -3,10 +3,10 @@ source 'https://rubygems.org'
 gem 'jekyll'
 
 group :jekyll_plugins do
+  gem 'jekyll-asciidoc'
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
-  gem "jekyll-asciidoc"
-  gem 'github-pages'
+  gem 'jekyll-sitemap', '~> 1.0.0'
 end
 
 gem 'asciidoctor', '~> 1.5.4'

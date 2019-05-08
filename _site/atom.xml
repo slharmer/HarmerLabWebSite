@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/HarmerLabWebSite/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/HarmerLabWebSite/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/HarmerLabWebSite/</id>
+	<id>http://localhost:4000//</id>
 	<title>Harmer Lab</title>
-	<updated>2018-12-31T18:44:09-08:00</updated>
+	<updated>2019-05-08T10:30:45-07:00</updated>
 
 	<subtitle>This is the website for the Harmer lab, located in the &lt;a href=&quot;http://www-plb.ucdavis.edu&quot;&gt;Department of Plant Biology&lt;/a&gt; at the &lt;a href=&quot;https://www.ucdavis.edu&quot;&gt;University of California, Davis.&lt;/a</subtitle>
 
@@ -19,16 +19,256 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/HarmerLabWebSite/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/HarmerLabWebSite/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/HarmerLabWebSite/design/mediaelement_js/</id>
+			<id>http://localhost:4000/papers/jones-jmjd5/</id>
+			<title>Arabidopsis JMJD5/JMJ30 acts independently of LUX ARRHYTHMO within the plant circadian clock to enable temperature compensation</title>
+			<link href="http://localhost:4000/papers/jones-jmjd5/" rel="alternate" type="text/html" title="Arabidopsis JMJD5/JMJ30 acts independently of LUX ARRHYTHMO within the plant circadian clock to enable temperature compensation" />
+			<updated>2019-02-01T00:00:00-08:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Stacey Harmer</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/papers/jones-jmjd5/">&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;The circadian system ensures that plants respond appropriately to environmental change by predicting regular transitions that occur during diel cycles. In order to be most useful, the circadian system needs to be compensated against daily and seasonal changes in temperature that would otherwise alter the pace of this biological oscillator. We demonstrate that an evening-phased protein, the putative histone demethylase JMJD5, contributes to temperature compensation. JMJD5 is co-expressed with components of the Evening Complex, an agglomeration of proteins including EARLY FLOWERING3 (ELF3), ELF4, and LUX ARRHYTHYMO (LUX), which also integrates temperature changes into the molecular clockwork. One role of the Evening Complex is to regulate expression of PSEUDORESPONSE REGULATOR9 (PRR9) and PRR7, important components of the temperature compensation mechanism. Surprisingly we find that LUX, but not other Evening Complex components, is dispensable for clock function at low temperatures. Further genetic analysis suggests JMJD5 acts in a parallel pathway to LUX within the circadian system. Although an intact JMJD5 catalytic domain is required for its function within the clock, our findings suggest JMJD5 does not directly regulate H3K36 methylation at circadian loci. Such data refine our understanding of how JMDJ5 acts within the Arabidopsis circadian system.&lt;/p&gt;
+</content>
+
+			
+				<category term="papers" />
+			
+			
+
+			<published>2019-02-01T00:00:00-08:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/papers/shalit-kaneh/</id>
+			<title>Multiple feedback loops of the Arabidopsis circadian clock provide rhythmic robustness across environmental conditions</title>
+			<link href="http://localhost:4000/papers/shalit-kaneh/" rel="alternate" type="text/html" title="Multiple feedback loops of the Arabidopsis circadian clock provide rhythmic robustness across environmental conditions" />
+			<updated>2018-05-29T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Stacey Harmer</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/papers/shalit-kaneh/">&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Although circadian oscillators in diverse eukaryotes all depend on interlinked transcriptional feedback loops, specific components are not conserved across higher taxa. Moreover, the circadian network in the model plant Arabidopsis thaliana is notably more complex than those found in animals and fungi. Here, we combine mathematical modeling and experimental approaches to investigate the functions of two classes of Myb-like transcription factors that antagonistically regulate common target genes. Both CCA1/LHY- and RVE8-clade factors bind directly to the same cis-element, but the former proteins act primarily as repressors, while the latter act primarily as activators of gene expression. We find that simulation of either type of loss-of-function mutant recapitulates clock phenotypes previously reported in mutant plants, while simulated simultaneous loss of both type of factors largely rescues circadian phase at the expense of rhythmic amplitude. In accord with this prediction, we find that plants mutant for both activator- and repressor-type Mybs have near-normal circadian phase and period but reduced rhythmic amplitude. Although these mutants exhibit robust rhythms when grown at mild temperatures, they are largely arrhythmic at physiologically relevant but nonoptimal temperatures. LHY- and RVE8-type Mybs are found in separate clades across the land plant lineage and even in some unicellular green algae, suggesting that they both may have functioned in even the earliest arising plant circadian oscillators. Our data suggest that the complexity of the plant circadian network may have arisen to provide rhythmic robustness across the range of environmental extremes to which plants, as sessile organisms, are regularly subjected.&lt;/p&gt;
+</content>
+
+			
+				<category term="papers" />
+			
+			
+
+			<published>2018-05-29T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/papers/harmer-review/</id>
+			<title>Growth-mediated plant movements - hidden in plain sight</title>
+			<link href="http://localhost:4000/papers/harmer-review/" rel="alternate" type="text/html" title="Growth-mediated plant movements - hidden in plain sight" />
+			<updated>2017-10-01T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Stacey Harmer</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/papers/harmer-review/">&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;While fast plant movements are spectacular but rare, almost all plants exhibit relatively slow, growth-mediated tropic movements that are key to their survival in the natural world. In this brief review, we discuss recent insights into the molecular mechanisms underlying phototropism, gravitropism, hydrotropism, and autostraightening. Careful molecular genetic and physiological studies have helped confirm the importance of lateral auxin gradients in gravitropic and phototropic responses. However, auxin signaling does not explain all tropisms: recent work has shown that abscisic acid signaling mediates root hydrotropism and has implicated mechanosensing in autostraightening, the organ straightening process recently modeled as a proprioceptive response. The interactions between distinct tropic signaling pathways and other internal and external sensory processes are also now being untangled.&lt;/p&gt;
+</content>
+
+			
+				<category term="papers" />
+			
+			
+
+			<published>2017-10-01T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/papers/Rubin-etal/</id>
+			<title>Circadian rhythms vary over the growing season and correlate with fitness components</title>
+			<link href="http://localhost:4000/papers/Rubin-etal/" rel="alternate" type="text/html" title="Circadian rhythms vary over the growing season and correlate with fitness components" />
+			<updated>2017-08-17T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Stacey Harmer</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/papers/Rubin-etal/">&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Circadian clocks have evolved independently in all three domains of life, suggesting that internal mechanisms of time‐keeping are adaptive in contemporary populations. However, the performance consequences of either discrete or quantitative clock variation have rarely been tested in field settings. Clock sensitivity of diverse segregating lines to the environment remains uncharacterized as do the statistical genetic parameters that determine evolutionary potential. In field studies with Arabidopsis thaliana, we found that major perturbations to circadian cycle length (referred to as clock period) via mutation reduce both survival and fecundity. Subtler adjustments via genomic introgression of naturally occurring alleles indicated that clock periods slightly &amp;gt;24 hr were adaptive, consistent with prior models describing how well the timing of biological processes is adjusted within a diurnal cycle (referred to as phase). In segregating recombinant inbred lines (RILs), circadian phase varied up to 2 hr across months of the growing season, and both period and phase expressed significant genetic variances. Performance metrics including developmental rate, size and fruit set were described by principal components (PC) analyses and circadian parameters correlated with the first PC, such that period lengths slightly &amp;gt;24 hr were associated with improved performance in multiple RIL sets. These experiments translate functional analyses of clock behaviour performed in controlled settings to natural ones, demonstrating that quantitative variation in circadian phase is highly responsive to seasonally variable abiotic factors. The results expand upon prior studies in controlled settings, showing that discrete and quantitative variation in clock phenotypes correlates with performance in nature.&lt;/p&gt;
+</content>
+
+			
+				<category term="papers" />
+			
+			
+
+			<published>2017-08-17T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/papers/Gray-etal/</id>
+			<title>The REVEILLE clock genes inhibit growth of juvenile and adult plants by control of cell size</title>
+			<link href="http://localhost:4000/papers/Gray-etal/" rel="alternate" type="text/html" title="The REVEILLE clock genes inhibit growth of juvenile and adult plants by control of cell size" />
+			<updated>2017-04-01T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Stacey Harmer</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/papers/Gray-etal/">&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;The circadian clock is a complex regulatory network that enhances plant growth and fitness in a constantly changing environment. In Arabidopsis (Arabidopsis thaliana), the clock is composed of numerous regulatory feedback loops in which REVEILLE8 (RVE8) and its homologs RVE4 and RVE6 act in a partially redundant manner to promote clock pace. Here, we report that the remaining members of the RVE8 clade, RVE3 and RVE5, play only minor roles in the regulation of clock function. However, we find that RVE8 clade proteins have unexpected functions in the modulation of light input to the clock and the control of plant growth at multiple stages of development. In seedlings, these proteins repress hypocotyl elongation in a daylength- and sucrose-dependent manner. Strikingly, adult rve4 6 8 and rve3 4 5 6 8 mutants are much larger than wild-type plants, with both increased leaf area and biomass. This size phenotype is associated with a faster growth rate and larger cell size and is not simply due to a delay in the transition to flowering. Gene expression and epistasis analysis reveal that the growth phenotypes of rve mutants are due to the misregulation of PHYTOCHROME INTERACTING FACTOR4 (PIF4) and PIF5 expression. Our results show that even small changes in PIF gene expression caused by the perturbation of clock gene function can have large effects on the growth of adult plants.&lt;/p&gt;
+</content>
+
+			
+				<category term="papers" />
+			
+			
+
+			<published>2017-04-01T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/papers/Muller-Moule/</id>
+			<title>YUCCA auxin biosynthetic genes are required for Arabidopsis shade avoidance</title>
+			<link href="http://localhost:4000/papers/Muller-Moule/" rel="alternate" type="text/html" title="YUCCA auxin biosynthetic genes are required for Arabidopsis shade avoidance" />
+			<updated>2016-10-13T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Stacey Harmer</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/papers/Muller-Moule/">&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Plants respond to neighbor shade by increasing stem and petiole elongation. Shade, sensed by phytochrome photoreceptors, causes stabilization of PHYTOCHROME INTERACTING FACTOR proteins and subsequent induction of YUCCA auxin biosynthetic genes. To investigate the role of YUCCA genes in phytochrome-mediated elongation, we examined auxin signaling kinetics after an end-of-day far-red (EOD-FR) light treatment, and found that an auxin responsive reporter is rapidly induced within 2 hours of far-red exposure. YUCCA2, 5, 8, and 9 are all induced with similar kinetics suggesting that they could act redundantly to control shade-mediated elongation. To test this hypothesis we constructed a yucca2, 5, 8, 9 quadruple mutant and found that the hypocotyl and petiole EOD-FR and shade avoidance responses are completely disrupted. This work shows that YUCCA auxin biosynthetic genes are essential for detectable shade avoidance and that YUCCA genes are important for petiole shade avoidance.&lt;/p&gt;
+</content>
+
+			
+				<category term="papers" />
+			
+			
+
+			<published>2016-10-13T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/papers/Atamian-Science/</id>
+			<title>Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits</title>
+			<link href="http://localhost:4000/papers/Atamian-Science/" rel="alternate" type="text/html" title="Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits" />
+			<updated>2016-08-05T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Stacey Harmer</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/papers/Atamian-Science/">&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Young sunflower plants track the Sun from east to west during the day and then reorient during the night to face east in anticipation of dawn. In contrast, mature plants cease movement with their flower heads facing east. We show that circadian regulation of directional growth pathways accounts for both phenomena and leads to increased vegetative biomass and enhanced pollinator visits to flowers. Solar tracking movements are driven by antiphasic patterns of elongation on the east and west sides of the stem. Genes implicated in control of phototropic growth, but not clock genes, are differentially expressed on the opposite sides of solar tracking stems. Thus, interactions between environmental response pathways and the internal circadian oscillator coordinate physiological processes with predictable changes in the environment to influence growth and reproduction.&lt;/p&gt;
+</content>
+
+			
+				<category term="papers" />
+			
+			
+
+			<published>2016-08-05T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/papers/atamian-review/</id>
+			<title>Circadian regulation of hormone signaling and plant physiology</title>
+			<link href="http://localhost:4000/papers/atamian-review/" rel="alternate" type="text/html" title="Circadian regulation of hormone signaling and plant physiology" />
+			<updated>2016-04-09T00:00:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Stacey Harmer</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/papers/atamian-review/">&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;The sensitivity of the circadian system to light allows entrainment of the clock, permitting coordination of plant metabolic function and flowering time across seasons. Light affects the circadian system via both photoreceptors, such as phytochromes and cryptochromes, and sugar production by photosynthesis. In the present study, we introduce a constitutively active version of phytochrome B-Y276H (YHB) into both wild-type and phytochrome null backgrounds of Arabidopsis (Arabidopsis thaliana) to distinguish the effects of photoreceptor signaling on clock function from those of photosynthesis. We find that the YHB mutation is sufficient to phenocopy red light input into the circadian mechanism and to sustain robust rhythms in steady-state mRNA levels even in plants grown without light or exogenous sugars. The pace of the clock is insensitive to light intensity in YHB plants, indicating that light input to the clock is constitutively activated by this allele. Mutation of YHB so that it is retained in the cytoplasm abrogates its effects on clock function, indicating that nuclear localization of phytochrome is necessary for its clock regulatory activity. We also demonstrate a role for phytochrome C as part of the red light sensing network that modulates phytochrome B signaling input into the circadian system. Our findings indicate that phytochrome signaling in the nucleus plays a critical role in sustaining robust clock function under red light, even in the absence of photosynthesis or exogenous sources of energy.&lt;/p&gt;
+</content>
+
+			
+				<category term="papers" />
+			
+			
+
+			<published>2016-04-09T00:00:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/mediaelement_js/</id>
 			<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
-			<link href="http://localhost:4000/HarmerLabWebSite/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" />
+			<link href="http://localhost:4000/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" />
 			<updated>2015-10-15T00:00:00-07:00</updated>
 
 			
@@ -42,10 +282,11 @@
 				</author>
 			
 			<summary>Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of &lt;em&gt;mediaelement.js&lt;/em&gt;. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8.</summary>
-			<content type="html" xml:base="http://localhost:4000/HarmerLabWebSite/design/mediaelement_js/">&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/design/mediaelement_js/">&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;To use the player just use some HTML5-magic like…&lt;/p&gt;
 
@@ -88,10 +329,10 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/HarmerLabWebSite/design/typography/typography/</id>
-			<title>Wonderful Typography</title>
-			<link href="http://localhost:4000/HarmerLabWebSite/design/typography/typography/" rel="alternate" type="text/html" title="Wonderful Typography" />
-			<updated>2015-08-16T00:00:00-07:00</updated>
+			<id>http://localhost:4000/papers/jones-yhb/</id>
+			<title>A constitutively active allele of phytochrome B maintains circadian robustness in the absence of light</title>
+			<link href="http://localhost:4000/papers/jones-yhb/" rel="alternate" type="text/html" title="A constitutively active allele of phytochrome B maintains circadian robustness in the absence of light" />
+			<updated>2015-10-01T00:00:00-07:00</updated>
 
 			
 				
@@ -103,959 +344,18 @@
 					
 				</author>
 			
-			<summary>&lt;em&gt;Feeling Responsive&lt;/em&gt; uses &lt;a href='https://www.google.com/fonts/specimen/Volkhov'&gt;Volkhov&lt;/a&gt; for headlines, &lt;a href='https://www.google.com/fonts/specimen/Lato'&gt;Lato&lt;/a&gt; for everything else and if you are in need to show some code, it will be in &lt;a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'&gt;Lucida Console&lt;/a&gt; or &lt;a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'&gt;Monaco&lt;/a&gt;.</summary>
-			<content type="html" xml:base="http://localhost:4000/HarmerLabWebSite/design/typography/typography/">&lt;!--more--&gt;
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/papers/jones-yhb/">&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
-    &lt;div class=&quot;panel radius&quot;&gt;
-      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#lato--a-sans-serif-typeface-family&quot; id=&quot;markdown-toc-lato--a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#about-volkhov-h2&quot; id=&quot;markdown-toc-about-volkhov-h2&quot;&gt;About Volkhov &amp;lt;h2&amp;gt;&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#feeling-responsive-uses-volkhov-for--h3&quot; id=&quot;markdown-toc-feeling-responsive-uses-volkhov-for--h3&quot;&gt;Feeling Responsive uses Volkhov for…  &amp;lt;h3&amp;gt;&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#heading-in-volkhov-h4&quot; id=&quot;markdown-toc-heading-in-volkhov-h4&quot;&gt;Heading in Volkhov &amp;lt;h4&amp;gt;&lt;/a&gt;            &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&quot;#heading-in-volkhov-h5&quot; id=&quot;markdown-toc-heading-in-volkhov-h5&quot;&gt;Heading in Volkhov &amp;lt;h5&amp;gt;&lt;/a&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#modular-scale&quot; id=&quot;markdown-toc-modular-scale&quot;&gt;Modular Scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#typographical-elements&quot; id=&quot;markdown-toc-typographical-elements&quot;&gt;Typographical Elements&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#hr-horizontal-line&quot; id=&quot;markdown-toc-hr-horizontal-line&quot;&gt;&amp;lt;hr&amp;gt; Horizontal Line&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#pre-displaying-code&quot; id=&quot;markdown-toc-pre-displaying-code&quot;&gt;&amp;lt;pre&amp;gt; Displaying Code&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#blockquote-quotation&quot; id=&quot;markdown-toc-blockquote-quotation&quot;&gt;&amp;lt;blockquote&amp;gt; Quotation&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#blockquote-and-cite--together&quot; id=&quot;markdown-toc-blockquote-and-cite--together&quot;&gt;&amp;lt;blockquote&amp;gt; and &amp;lt;cite&amp;gt;  together&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ol-ordered-lists&quot; id=&quot;markdown-toc-ol-ordered-lists&quot;&gt;&amp;lt;ol&amp;gt; Ordered Lists&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ul-unordered-lists&quot; id=&quot;markdown-toc-ul-unordered-lists&quot;&gt;&amp;lt;ul&amp;gt; Unordered Lists&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#dl-definition-lists&quot; id=&quot;markdown-toc-dl-definition-lists&quot;&gt;&amp;lt;dl&amp;gt; Definition Lists&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#a&quot; id=&quot;markdown-toc-a&quot;&gt;&amp;lt;a&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#em&quot; id=&quot;markdown-toc-em&quot;&gt;&amp;lt;em&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#strong&quot; id=&quot;markdown-toc-strong&quot;&gt;&amp;lt;strong&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#small&quot; id=&quot;markdown-toc-small&quot;&gt;&amp;lt;small&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#s&quot; id=&quot;markdown-toc-s&quot;&gt;&amp;lt;s&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cite&quot; id=&quot;markdown-toc-cite&quot;&gt;&amp;lt;cite&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#q&quot; id=&quot;markdown-toc-q&quot;&gt;&amp;lt;q&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#dfn&quot; id=&quot;markdown-toc-dfn&quot;&gt;&amp;lt;dfn&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#abbr&quot; id=&quot;markdown-toc-abbr&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#time&quot; id=&quot;markdown-toc-time&quot;&gt;&amp;lt;time&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#code&quot; id=&quot;markdown-toc-code&quot;&gt;&amp;lt;code&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#var&quot; id=&quot;markdown-toc-var&quot;&gt;&amp;lt;var&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#samp&quot; id=&quot;markdown-toc-samp&quot;&gt;&amp;lt;samp&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#kbd&quot; id=&quot;markdown-toc-kbd&quot;&gt;&amp;lt;kbd&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#sub&quot; id=&quot;markdown-toc-sub&quot;&gt;&amp;lt;sub&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#sup&quot; id=&quot;markdown-toc-sup&quot;&gt;&amp;lt;sup&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#i&quot; id=&quot;markdown-toc-i&quot;&gt;&amp;lt;i&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#b&quot; id=&quot;markdown-toc-b&quot;&gt;&amp;lt;b&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#u&quot; id=&quot;markdown-toc-u&quot;&gt;&amp;lt;u&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#mark&quot; id=&quot;markdown-toc-mark&quot;&gt;&amp;lt;mark&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#br&quot; id=&quot;markdown-toc-br&quot;&gt;&amp;lt;br&amp;gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#footnotes&quot; id=&quot;markdown-toc-footnotes&quot;&gt;Footnotes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#h1-heading-in-volkhov&quot; id=&quot;markdown-toc-h1-heading-in-volkhov&quot;&gt;&amp;lt;h1&amp;gt;-Heading in Volkhov&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#h2-heading-in-volkhov&quot; id=&quot;markdown-toc-h2-heading-in-volkhov&quot;&gt;&amp;lt;h2&amp;gt;-Heading in Volkhov&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#h3-heading-in-volkhov&quot; id=&quot;markdown-toc-h3-heading-in-volkhov&quot;&gt;&amp;lt;h3&amp;gt;-Heading in Volkhov&lt;/a&gt;            &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&quot;#h4-heading-in-volkhov&quot; id=&quot;markdown-toc-h4-heading-in-volkhov&quot;&gt;&amp;lt;h4&amp;gt;-Heading in Volkhov&lt;/a&gt;                &lt;ul&gt;
-                  &lt;li&gt;&lt;a href=&quot;#h5-heading-in-volkhov&quot; id=&quot;markdown-toc-h5-heading-in-volkhov&quot;&gt;&amp;lt;h5&amp;gt;-Heading in Volkhov&lt;/a&gt;                    &lt;ul&gt;
-                      &lt;li&gt;&lt;a href=&quot;#h6-heading-in-volkhov&quot; id=&quot;markdown-toc-h6-heading-in-volkhov&quot;&gt;&amp;lt;h6&amp;gt;-Heading in Volkhov&lt;/a&gt;&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tables&quot; id=&quot;markdown-toc-tables&quot;&gt;Tables&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-
-
-&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
-
-    &lt;h2 id=&quot;lato--a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/h2&gt;
-
-    &lt;p&gt;&lt;a href=&quot;https://www.google.com/fonts/specimen/Lato&quot;&gt;&lt;dfn&gt;Lato&lt;/dfn&gt;&lt;/a&gt; is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google.&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;&lt;span class=&quot;teaser&quot;&gt;I do not think of type as something that should be readable. It should be beautiful.&lt;/span&gt;&lt;cite&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Ed_Benguiat&quot;&gt;Ed Benguiat&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;In the last ten or so years, during which Łukasz has been designing type, most of his projects were rooted in a particular design task that he needed to solve. With Lato, it was no different. Originally, the family was conceived as a set of corporate fonts for a large client — who in the end decided to go in different stylistic direction, so the family became available for a public release.&lt;/p&gt;
-
-    &lt;p&gt;When working on Lato, Łukasz tried to carefully balance some potentially conflicting priorities. He wanted to create a typeface that would seem quite “transparent” when used in body text but would display some original traits when used in larger sizes. He used classical proportions (particularly visible in the uppercase) to give the letterforms familiar harmony and elegance. At the same time, he created a sleek sans serif look, which makes evident the fact that Lato was designed in 2010 — even though it does not follow any current trend.&lt;/p&gt;
-
-    &lt;p&gt;The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. “Male and female, serious but friendly. With the feeling of the Summer,” says Łukasz. Learn more at &lt;a href=&quot;http://www.latofonts.com/&quot;&gt;www.latofonts.com&lt;/a&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;about-volkhov-h2&quot;&gt;About Volkhov &amp;lt;h2&amp;gt;&lt;/h2&gt;
-
-    &lt;p&gt;&lt;dfn&gt;Volkhov&lt;/dfn&gt; is a low-contrast seriffed typeface with a robust character, intended for providing a motivating reading experience. Volkhov was designed by Ivan Petrov.&lt;/p&gt;
-
-    &lt;h3 id=&quot;feeling-responsive-uses-volkhov-for--h3&quot;&gt;Feeling Responsive uses Volkhov for…  &amp;lt;h3&amp;gt;&lt;/h3&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;&amp;lt;h1&amp;gt;-headings&lt;/li&gt;
-      &lt;li&gt;&amp;lt;h2&amp;gt;-headings&lt;/li&gt;
-      &lt;li&gt;&amp;lt;h3&amp;gt;-headings&lt;/li&gt;
-      &lt;li&gt;&amp;lt;h4&amp;gt;-headings&lt;/li&gt;
-      &lt;li&gt;&amp;lt;h5&amp;gt;-headings&lt;/li&gt;
-      &lt;li&gt;&amp;lt;h6&amp;gt;-headings&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;h4 id=&quot;heading-in-volkhov-h4&quot;&gt;Heading in Volkhov &amp;lt;h4&amp;gt;&lt;/h4&gt;
-
-    &lt;p&gt;As a four-weight family it is well-suited for complex text environments being economic and legible, contemporary and prominent. Many of its design solutions relate to this purpose: large open counters, rather short descenders, and brutal asymmetric serifs.&lt;/p&gt;
-
-    &lt;h5 id=&quot;heading-in-volkhov-h5&quot;&gt;Heading in Volkhov &amp;lt;h5&amp;gt;&lt;/h5&gt;
-
-    &lt;p&gt;Spacing in Bold is slightly increased compared to the normal weight, because the bold mass is mostly grown inwards. The Italic has a steep angle and a distinctive calligraphically reminiscent character, as a counterpart to the rigorous Regular.&lt;/p&gt;
-
-    &lt;h2 id=&quot;modular-scale&quot;&gt;Modular Scale&lt;/h2&gt;
-
-    &lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; explores the &lt;em&gt;2:3 perfect fifth&lt;/em&gt; modular scale created with &lt;a href=&quot;http://modularscale.com/&quot;&gt;www.modular-scale.com&lt;/a&gt;. This is the modular scale of  &lt;em&gt;Feeling Responsive&lt;/em&gt;.&lt;/p&gt;
-
-    &lt;p&gt;44px @ 1:1.5 – Ideal text size&lt;br /&gt;
-16px @ 1:1.5 – Important number&lt;/p&gt;
-
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;Modular Scale&lt;/th&gt;
-          &lt;th&gt; &lt;/th&gt;
-          &lt;th&gt; &lt;/th&gt;
-          &lt;th&gt; &lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;44.000&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;2.75&lt;/td&gt;
-          &lt;td&gt;338.462&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;36.000&lt;/td&gt;
-          &lt;td&gt;0.818&lt;/td&gt;
-          &lt;td&gt;2.25&lt;/td&gt;
-          &lt;td&gt;276.923&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;29.333&lt;/td&gt;
-          &lt;td&gt;0.667&lt;/td&gt;
-          &lt;td&gt;1.833&lt;/td&gt;
-          &lt;td&gt;225.638&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;24.000&lt;/td&gt;
-          &lt;td&gt;0.545&lt;/td&gt;
-          &lt;td&gt;1.5&lt;/td&gt;
-          &lt;td&gt;184.615&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;19.555&lt;/td&gt;
-          &lt;td&gt;0.444&lt;/td&gt;
-          &lt;td&gt;1.222&lt;/td&gt;
-          &lt;td&gt;150.423&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;16.000&lt;/td&gt;
-          &lt;td&gt;0.364&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;123.077&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;h2 class=&quot;t60&quot; id=&quot;typographical-elements&quot;&gt;Typographical Elements&lt;/h2&gt;
-
-    &lt;p&gt;Here you’ll find the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list&quot;&gt;complete list of HTML5-Tags&lt;/a&gt; and this is how they look like.&lt;/p&gt;
-
-    &lt;h3 id=&quot;hr-horizontal-line&quot;&gt;&amp;lt;hr&amp;gt; Horizontal Line&lt;/h3&gt;
-    &lt;hr /&gt;
-
-    &lt;h3 id=&quot;pre-displaying-code&quot;&gt;&amp;lt;pre&amp;gt; Displaying Code&lt;/h3&gt;
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;Code Blocks&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;h3 id=&quot;blockquote-quotation&quot;&gt;&amp;lt;blockquote&amp;gt; Quotation&lt;/h3&gt;
-    &lt;blockquote&gt;Everything happens for a reason. (Britney Spears)&lt;/blockquote&gt;
-
-    &lt;h3 id=&quot;blockquote-and-cite--together&quot;&gt;&amp;lt;blockquote&amp;gt; and &amp;lt;cite&amp;gt;  together&lt;/h3&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.
-&lt;cite&gt;Mark Twain&lt;/cite&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;h3 id=&quot;ol-ordered-lists&quot;&gt;&amp;lt;ol&amp;gt; Ordered Lists&lt;/h3&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Ordered List&lt;/li&gt;
-      &lt;li&gt;Second List Item&lt;/li&gt;
-      &lt;li&gt;Third List Item
-        &lt;ol&gt;
-          &lt;li&gt;Second Level First Item&lt;/li&gt;
-          &lt;li&gt;Second Level Second Item&lt;/li&gt;
-          &lt;li&gt;Second Level Third Item
-            &lt;ol&gt;
-              &lt;li&gt;And a third level First Item&lt;/li&gt;
-              &lt;li&gt;And a third level Second Item&lt;/li&gt;
-              &lt;li&gt;And a third level Third Item&lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Fourth List Item&lt;/li&gt;
-      &lt;li&gt;Fifth List Item&lt;/li&gt;
-    &lt;/ol&gt;
-
-    &lt;h3 id=&quot;ul-unordered-lists&quot;&gt;&amp;lt;ul&amp;gt; Unordered Lists&lt;/h3&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Unordered List&lt;/li&gt;
-      &lt;li&gt;Second List Item&lt;/li&gt;
-      &lt;li&gt;Third List Item
-        &lt;ul&gt;
-          &lt;li&gt;Second Level First Item&lt;/li&gt;
-          &lt;li&gt;Second Level Second Item&lt;/li&gt;
-          &lt;li&gt;Second Level Third Item
-            &lt;ul&gt;
-              &lt;li&gt;And a third level First Item&lt;/li&gt;
-              &lt;li&gt;And a third level Second Item&lt;/li&gt;
-              &lt;li&gt;And a third level Third Item&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Fourth List Item&lt;/li&gt;
-      &lt;li&gt;Fifth List Item&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;h3 id=&quot;dl-definition-lists&quot;&gt;&amp;lt;dl&amp;gt; Definition Lists&lt;/h3&gt;
-
-    &lt;dl&gt;
-      &lt;dt&gt;Definition List&lt;/dt&gt;
-      &lt;dd&gt;Bacon ipsum dolor sit amet spare ribs brisket ribeye, andouille sirloin bresaola frankfurter corned beef capicola bacon. Salami beef ribs sirloin, short loin hamburger shoulder t-bone.&lt;/dd&gt;
-      &lt;dt&gt;Beef ribs jowl swine porchetta&lt;/dt&gt;
-      &lt;dd&gt;Sirloin tenderloin swine frankfurter pork loin pork capicola ham hock strip steak ribeye beef ribs. Hamburger t-bone ribeye ham prosciutto bresaola.&lt;/dd&gt;
-      &lt;dt&gt;Pancetta flank sirloin pork&lt;/dt&gt;
-      &lt;dd&gt;short ribs shankle prosciutto landjaeger. Beef ribs turkey shoulder drumstick. Leberkas pork belly ribeye, bresaola jerky strip steak tenderloin bacon landjaeger short ribs beef ribs. Flank pork chop fatback tail kielbasa filet mignon jowl landjaeger bresaola tongue corned beef biltong.&lt;/dd&gt;
-      &lt;dd&gt;Landjaeger spare ribs fatback corned beef tenderloin drumstick, swine chicken beef turkey biltong doner tri-tip filet mignon.&lt;/dd&gt;
-    &lt;/dl&gt;
-
-    &lt;h3 id=&quot;a&quot;&gt;&amp;lt;a&amp;gt;&lt;/h3&gt;
-    &lt;p&gt;&lt;a href=&quot;http://phlow.de/&quot;&gt;Links&lt;/a&gt; make the web exceptional.&lt;/p&gt;
-
-    &lt;h3 id=&quot;em&quot;&gt;&amp;lt;em&amp;gt;&lt;/h3&gt;
-    &lt;p&gt;Let’s &lt;em&gt;emphasize&lt;/em&gt; how important responsive webdesign is.&lt;/p&gt;
-
-    &lt;h3 id=&quot;strong&quot;&gt;&amp;lt;strong&amp;gt;&lt;/h3&gt;
-    &lt;p&gt;This looks like &lt;strong&gt;bold&lt;/strong&gt; text.&lt;/p&gt;
-
-    &lt;h3 id=&quot;small&quot;&gt;&amp;lt;small&amp;gt;&lt;/h3&gt;
-    &lt;p&gt;&lt;small&gt;This is small text.&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;s&quot;&gt;&amp;lt;s&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;It’s nice getting things done. Just strike through &lt;s&gt;finished tasks&lt;/s&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;cite&quot;&gt;&amp;lt;cite&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;&lt;cite&gt;Albert Einstein&lt;/cite&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;q&quot;&gt;&amp;lt;q&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;If you use &amp;lt;q&amp;gt; your text gets &lt;q&gt;automagically quotes around the text passage&lt;/q&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;dfn&quot;&gt;&amp;lt;dfn&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;The &amp;lt;dfn&amp;gt; tag is a phrase tag. It defines a &lt;dfn&gt;definition term&lt;/dfn&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;abbr&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;The &lt;abbr title=&quot;World Health Organization&quot;&gt;WHO&lt;/abbr&gt; was founded in 1948.&lt;/p&gt;
-
-    &lt;h3 id=&quot;time&quot;&gt;&amp;lt;time&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;The concert took place on &lt;time datetime=&quot;2001-05-15 19:00&quot;&gt;May 15&lt;/time&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;code&quot;&gt;&amp;lt;code&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;Some &lt;code class=&quot;highlighter-rouge&quot;&gt;code: lucida console&lt;/code&gt; displayed.&lt;/p&gt;
-
-    &lt;h3 id=&quot;var&quot;&gt;&amp;lt;var&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;The &amp;lt;var&amp;gt; tag is a phrase tag. It defines a &lt;var&gt;variable&lt;/var&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;samp&quot;&gt;&amp;lt;samp&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;Text surrounded by &amp;lt;samp&amp;gt; &lt;samp&gt;looks like this in monospace&lt;/samp&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;kbd&quot;&gt;&amp;lt;kbd&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;Copycats enjoy pressing &lt;kbd&gt;CMD&lt;/kbd&gt; + &lt;kbd&gt;c&lt;/kbd&gt; and &lt;kbd&gt;CMD&lt;/kbd&gt; + &lt;kbd&gt;v&lt;/kbd&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;sub&quot;&gt;&amp;lt;sub&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;This text &lt;sub&gt;lays low&lt;/sub&gt; and chills a bit.&lt;/p&gt;
-
-    &lt;h3 id=&quot;sup&quot;&gt;&amp;lt;sup&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;This text &lt;sup&gt;gets high&lt;/sup&gt; above the clouds.&lt;/p&gt;
-
-    &lt;h3 id=&quot;i&quot;&gt;&amp;lt;i&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;This looks &lt;i&gt;italic&lt;/i&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;b&quot;&gt;&amp;lt;b&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;This looks &lt;b&gt;bold&lt;/b&gt;, too.&lt;/p&gt;
-
-    &lt;h3 id=&quot;u&quot;&gt;&amp;lt;u&amp;gt;&lt;/h3&gt;
-
-    &lt;div&gt;&lt;p&gt;&lt;u&gt;Underlining&lt;/u&gt; content for emphasize is not the best choice. You can't read it so well.&lt;/p&gt;&lt;/div&gt;
-
-    &lt;h3 id=&quot;mark&quot;&gt;&amp;lt;mark&amp;gt;&lt;/h3&gt;
-    &lt;p&gt;Let’s &lt;mark&gt;mark this hint&lt;/mark&gt; to give you a clue.&lt;/p&gt;
-
-    &lt;h3 id=&quot;br&quot;&gt;&amp;lt;br&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;Need a break? I give you three!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
-
-    &lt;p&gt;If you need footnotes for your posts, articles and entries, the Kramdown-Parser &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; got you covered. How to use footnotes? Read this footnote. &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-    &lt;h1 id=&quot;h1-heading-in-volkhov&quot;&gt;&amp;lt;h1&amp;gt;-Heading in Volkhov&lt;/h1&gt;
-
-    &lt;h2 id=&quot;h2-heading-in-volkhov&quot;&gt;&amp;lt;h2&amp;gt;-Heading in Volkhov&lt;/h2&gt;
-
-    &lt;h3 id=&quot;h3-heading-in-volkhov&quot;&gt;&amp;lt;h3&amp;gt;-Heading in Volkhov&lt;/h3&gt;
-
-    &lt;h4 id=&quot;h4-heading-in-volkhov&quot;&gt;&amp;lt;h4&amp;gt;-Heading in Volkhov&lt;/h4&gt;
-
-    &lt;h5 id=&quot;h5-heading-in-volkhov&quot;&gt;&amp;lt;h5&amp;gt;-Heading in Volkhov&lt;/h5&gt;
-
-    &lt;h6 id=&quot;h6-heading-in-volkhov&quot;&gt;&amp;lt;h6&amp;gt;-Heading in Volkhov&lt;/h6&gt;
-
-    &lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
-
-    &lt;p&gt;Even tables are responsive thanks to foundation. A table can consist of these elements.&lt;/p&gt;
-
-    &lt;table&gt;
-  &lt;caption&gt;&amp;lt;table&amp;gt; defines an HTML table&lt;/caption&gt;
-  &lt;colgroup&gt;
-    &lt;col span=&quot;1&quot; style=&quot;width: 15%;&quot; /&gt;
-    &lt;col span=&quot;1&quot; style=&quot;width: 50%;&quot; /&gt;
-    &lt;col span=&quot;1&quot; style=&quot;width: 35%;&quot; /&gt;
-  &lt;/colgroup&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;HTML Tag&lt;/th&gt;
-      &lt;th&gt;Defintion&lt;/th&gt;
-      &lt;th&gt;Style&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;caption&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a table caption&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: bold;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;colgroup&amp;gt;&lt;/td&gt;
-      &lt;td&gt;specifies a group of one or more columns in a table for 
-formatting. The &amp;lt;colgroup&amp;gt; tag is useful for applying styles to entire columns, instead of repeating the styles for each cell, for each row.&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;col&amp;gt;&lt;/td&gt;
-      &lt;td&gt;specifies column properties for each column within a `&amp;lt;colgroup&amp;gt;` 
-element&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;thead&amp;gt;&lt;/td&gt;
-      &lt;td&gt;is used to group header content in an HTML table&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: bold;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;tbody&amp;gt;&lt;/td&gt;
-      &lt;td&gt;is used to group the body content in an HTML table&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;tr&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a row in an HTML table&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;th&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a header cell in an HTML table&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: bold;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;td&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a standard cell in an HTML table&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: normal;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;tfoot&amp;gt;&lt;/td&gt;
-      &lt;td&gt;is used to group footer content in an HTML table&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-&amp;lt;/table&amp;gt;
-
-
-
-
-
-
-
-&amp;lt;/div&amp;gt;&lt;!-- /.medium-8.columns --&gt;
-&amp;lt;/div&amp;gt;&lt;!-- /.row --&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-  &lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Find out more about Kramdown on &lt;a href=&quot;http://kramdown.gettalong.org/&quot;&gt;http://kramdown.gettalong.org/&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Kramdown has an excellent documentation of all its features. Check out, on how to &lt;a href=&quot;http://kramdown.gettalong.org/syntax.html#footnotes&quot;&gt;footnotes&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
+&lt;p&gt;The sensitivity of the circadian system to light allows entrainment of the clock, permitting coordination of plant metabolic function and flowering time across seasons. Light affects the circadian system via both photoreceptors, such as phytochromes and cryptochromes, and sugar production by photosynthesis. In the present study, we introduce a constitutively active version of phytochrome B-Y276H (YHB) into both wild-type and phytochrome null backgrounds of Arabidopsis (Arabidopsis thaliana) to distinguish the effects of photoreceptor signaling on clock function from those of photosynthesis. We find that the YHB mutation is sufficient to phenocopy red light input into the circadian mechanism and to sustain robust rhythms in steady-state mRNA levels even in plants grown without light or exogenous sugars. The pace of the clock is insensitive to light intensity in YHB plants, indicating that light input to the clock is constitutively activated by this allele. Mutation of YHB so that it is retained in the cytoplasm abrogates its effects on clock function, indicating that nuclear localization of phytochrome is necessary for its clock regulatory activity. We also demonstrate a role for phytochrome C as part of the red light sensing network that modulates phytochrome B signaling input into the circadian system. Our findings indicate that phytochrome signaling in the nucleus plays a critical role in sustaining robust clock function under red light, even in the absence of photosynthesis or exogenous sources of energy.&lt;/p&gt;
 </content>
 
 			
-				<category term="design" />
+				<category term="papers" />
 			
-				<category term="typography" />
 			
-			
-
-			<published>2015-08-16T00:00:00-07:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/HarmerLabWebSite/design/comments/</id>
-			<title>Now with Comments!</title>
-			<link href="http://localhost:4000/HarmerLabWebSite/design/comments/" rel="alternate" type="text/html" title="Now with Comments!" />
-			<updated>2015-08-15T00:00:00-07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Stacey Harmer</name>
-					
-					
-					
-				</author>
-			
-			<summary>For a blog you need comments. Like all those other jekyll themes we baked in Disqus. It's easy to set, it works and makes a static jekyll blog more dynamic.</summary>
-			<content type="html" xml:base="http://localhost:4000/HarmerLabWebSite/design/comments/">&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
-</content>
-
-			
-				<category term="design" />
-			
-			
-
-			<published>2015-08-15T00:00:00-07:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/HarmerLabWebSite/design/no-header/</id>
-			<title>No Header</title>
-			<link href="http://localhost:4000/HarmerLabWebSite/design/no-header/" rel="alternate" type="text/html" title="No Header" />
-			<updated>2015-08-11T00:00:00-07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Stacey Harmer</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows &lt;em&gt;no&lt;/em&gt; header at all. Just the navigation.</summary>
-			<content type="html" xml:base="http://localhost:4000/HarmerLabWebSite/design/no-header/">&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="background color" />
-			
-				<category term="header" />
-			
-
-			<published>2015-08-11T00:00:00-07:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/HarmerLabWebSite/design/no-header-but-image/</id>
-			<title>No Header but Article Image</title>
-			<link href="http://localhost:4000/HarmerLabWebSite/design/no-header-but-image/" rel="alternate" type="text/html" title="No Header but Article Image" />
-			<updated>2015-03-12T00:00:00-07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Stacey Harmer</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive enables you to get the attention of visitors. If you don't want to use a big header, use an image for the article instead.</summary>
-			<content type="html" xml:base="http://localhost:4000/HarmerLabWebSite/design/no-header-but-image/">&lt;p&gt;First turn of the header with &lt;code class=&quot;highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
-image:
-    title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="background color" />
-			
-				<category term="header" />
-			
-
-			<published>2015-03-12T00:00:00-07:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/HarmerLabWebSite/design/header-with-text/</id>
-			<title>Header With Text</title>
-			<link href="http://localhost:4000/HarmerLabWebSite/design/header-with-text/" rel="alternate" type="text/html" title="Header With Text" />
-			<updated>2015-02-10T00:00:00-08:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Stacey Harmer</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This header is with text.</summary>
-			<content type="html" xml:base="http://localhost:4000/HarmerLabWebSite/design/header-with-text/">&lt;!--more--&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    title: header with text
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="background color" />
-			
-				<category term="header" />
-			
-
-			<published>2015-02-10T00:00:00-08:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/HarmerLabWebSite/design/header-logo-only/</id>
-			<title>Header With Logo Only</title>
-			<link href="http://localhost:4000/HarmerLabWebSite/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" />
-			<updated>2014-10-09T00:00:00-07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Stacey Harmer</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background.</summary>
-			<content type="html" xml:base="http://localhost:4000/HarmerLabWebSite/design/header-logo-only/">&lt;p&gt;No front matter code needed.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="background color" />
-			
-				<category term="header" />
-			
-
-			<published>2014-10-09T00:00:00-07:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/HarmerLabWebSite/design/header-image-color/</id>
-			<title>Header Image With Background Color</title>
-			<link href="http://localhost:4000/HarmerLabWebSite/design/header-image-color/" rel="alternate" type="text/html" title="Header Image With Background Color" />
-			<updated>2014-10-09T00:00:00-07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Stacey Harmer</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header image with a defined background color via front matter.</summary>
-			<content type="html" xml:base="http://localhost:4000/HarmerLabWebSite/design/header-image-color/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;alert-box alert &quot;&gt;&lt;p&gt;WARNING: To make this work the value of &lt;code class=&quot;highlighter-rouge&quot;&gt;background-color&lt;/code&gt; must be inbetween quotes.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image: &quot;header_unsplash_2-970x.jpg&quot;
-    background-color: &quot;#fabb00&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="background color" />
-			
-				<category term="header" />
-			
-
-			<published>2014-10-09T00:00:00-07:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/HarmerLabWebSite/design/header-full-width-image/</id>
-			<title>Header with a Full-Width-Image</title>
-			<link href="http://localhost:4000/HarmerLabWebSite/design/header-full-width-image/" rel="alternate" type="text/html" title="Header with a Full-Width-Image" />
-			<updated>2014-10-09T00:00:00-07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Stacey Harmer</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header with a &lt;em&gt;full-width-image&lt;/em&gt;.</summary>
-			<content type="html" xml:base="http://localhost:4000/HarmerLabWebSite/design/header-full-width-image/">&lt;p&gt;It’s so easy to do. Just define in front matter your image.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image_fullwidth: &quot;unsplash_brooklyn-bridge_header.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="background color" />
-			
-				<category term="header" />
-			
-
-			<published>2014-10-09T00:00:00-07:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/HarmerLabWebSite/design/header-image-pattern/</id>
-			<title>Header Image With Pattern</title>
-			<link href="http://localhost:4000/HarmerLabWebSite/design/header-image-pattern/" rel="alternate" type="text/html" title="Header Image With Pattern" />
-			<updated>2014-10-08T00:00:00-07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Stacey Harmer</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header image in front of a pattern.</summary>
-			<content type="html" xml:base="http://localhost:4000/HarmerLabWebSite/design/header-image-pattern/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image:  &quot;header_unsplash_2-970x.jpg&quot;
-    pattern:  &quot;pattern_concrete.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/HarmerLabWebSite/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="pattern" />
-			
-				<category term="header" />
-			
 
-			<published>2014-10-08T00:00:00-07:00</published>
+			<published>2015-10-01T00:00:00-07:00</published>
 		</entry>
 	
 </feed>

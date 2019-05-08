@@ -7,31 +7,19 @@
   side: left
 
 - title: Lab members
-  url: "/lab-members/"
+  url: "/team/"
   side: left
 
 - title: Publications
-  url: "/publications/"
+  url: /papers/
   side: left
 
-- title: News
-  url: "/news/"
-  side: left
-  dropdown:
-  - title: "News Archive"
-    url: "/news/archive/"
-
-- title: Funding
-  url: "/funding/"
-  side: left
-
-- title: Join
-  url: "/join/"
-  side: left
-
-- title: Contact
-  url: "/contact/"
-  side: right
+#- title: News
+#  url: "/news/"
+#  side: left
+#  dropdown:
+#  - title: "News Archive"
+#    url: "/news/archive/"
 
 - title: Links
   url: "/links/"
@@ -39,7 +27,11 @@
   dropdown:
   - title: "Safety"
     url: "/links/safety/"
-  - title: "Protocols"
+  - title: "Protocols and Links"
     url: "/links/protocols/"
-  - title: "Seminars"
+  - title: "Meetings and Seminars"
     url: "/links/seminars/"
+
+- title: Contact
+  url: "/contact/"
+  side: left

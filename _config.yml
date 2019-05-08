@@ -7,6 +7,9 @@
 #   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
 #
+# The language setting is used in /includes/helper/header.html for html-settings
+lang: 'en'
+
 # Title of your website
 title: 'Harmer Lab'
 
@@ -24,9 +27,11 @@ credits: '<p>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a
 author: Stacey Harmer
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
+#  I THINK I"LL NEED TO COME BACK AND CHANGE LATER
 #
-url: 'https://slharmer.github.io'
-baseurl: '/HarmerLabWebSite'
+url: /Users/slharmer/HarmerLabWebSite/
+### url: 'https://slharmer.github.io'
+###  baseurl: '/HarmerLabWebSite'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -42,13 +47,14 @@ baseurl: '/HarmerLabWebSite'
 urlimg: 'https://slharmer.github.io/HarmerLabWebSite/images/'
 
 # Logo size is 600x80 pixels
-logo: "welcome_logo.png"
+#logo: "welcome_logo2.png"
 
 # Gems
 gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-sitemap
 
 
 #       ____              _             __  _
@@ -59,7 +65,7 @@ gems:
 #               /____/
 #
 paginate: 5                      # Paginates all X entries
-paginate_path: "news/page:num"   # Pagination path › Important for blog page in /blog/ to work
+paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
 # Theme works best with Kramdown (using the table of contents function)
@@ -68,6 +74,7 @@ permalink: /:categories/:title/
 highlight: rouge
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
+
 # Exclude these files from your production _site
 exclude:
     - .sass-cache
@@ -77,8 +84,56 @@ exclude:
     - README.md
     - INSTALL.md
 
-# The language setting is used in /includes/header.html for html-settings
-language: 'en'
+
+
+
+
+#      ______      __              _____      __
+#     / ____/___  / /___  _____   / ___/_____/ /_  ___  ____ ___  ___  _____
+#    / /   / __ \/ / __ \/ ___/   \__ \/ ___/ __ \/ _ \/ __ `__ \/ _ \/ ___/
+#   / /___/ /_/ / / /_/ / /      ___/ / /__/ / / /  __/ / / / / /  __(__  )
+#   \____/\____/_/\____/_/      /____/\___/_/ /_/\___/_/ /_/ /_/\___/____/
+#
+#   Choose one of the following color schemes.
+#   Or add your own color_scheme to /_sass/feeling-responsive/01_colors/
+#
+#  - feeling_responsive
+#  - gloom_contrast
+#  - glowfish
+#  - legacy
+#  - yule
+
+color_scheme: feeling_responsive
+
+
+#       ______            __
+#      / ____/___  ____  / /______
+#     / /_  / __ \/ __ \/ __/ ___/
+#    / __/ / /_/ / / / / /_(__  )
+#   /_/    \____/_/ /_/\__/____/
+#
+#   Choose one of the following font combinations:
+#
+#   import is necessary to import the font from google
+#   the settings for the fonts are used in /assets/css/simplicity.scss
+
+font:
+  import: 'Inconsolata:400,700|Open+Sans:400,400i,700,700i'
+#  import: 'Source+Code+Pro|Source+Sans+Pro:400,400italic,700,700italic'
+#  import: 'Titillium+Web:400,400italic,700,700italic'
+#  import: 'Roboto:400,400italic,700,700italic|Roboto+Mono'
+#  import: 'Merriweather:400,400italic,700,700italic'
+#  import: 'Arvo:400,400italic,700,700italic'
+#  import: 'Gentium+Basic:400,400italic,700,700italic'
+#  import: 'Fira+Sans:400,400italic,700,700italic|Fira+Mono'
+  font-family-serif:      'Georgia, "Times New Roman", serif;'
+  font-family-sans-serif: '"Open Sans", "Neue Helvetica", Arial, serif;'
+  base-font-family:       'Georgia, "Neue Helvetica", Arial, serif;'
+  font-family-monospace:  '"Inconsolata", "Courier New", Monaco, monospace;'
+  header-font-family:     '"Open Sans", "Neue Helvetica", Arial, serif;'
+
+
+
 
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
@@ -109,7 +164,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Stacey Harmer     # Default author for pages
+      author: phlow     # Default author for pages
   -
     scope:
       path: ''
@@ -118,7 +173,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Stacey Harmer     # Default author for posts
+      author: phlow     # Default author for posts
 
 
 
@@ -143,30 +198,8 @@ defaults:
 #google_author:             'https://plus.google.com/u/0/118311555303973066167'
 #google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
 #bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
-# yandex_site_verification:  ''
-# alexa_verify_id:           ''
+# alexa_verify_id:         ''
 
-
-
-#       ______            _
-#      / ____/___ __   __(_)________  ____  _____
-#     / /_  / __ `/ | / / / ___/ __ \/ __ \/ ___/
-#    / __/ / /_/ /| |/ / / /__/ /_/ / / / (__  )
-#   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
-#                                                 More information » https://mathiasbynens.be/notes/touch-icons
-
-favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
-msapplication_tilecolor:                '#fabb00'
 
 
 #       ______                __                __
@@ -180,18 +213,27 @@ msapplication_tilecolor:                '#fabb00'
 #og_type:                            'website'
 
 
-#      _____            _       __   __  ___         ___
-#     / ___/____  _____(_)___ _/ /  /  |/  /__  ____/ (_)___ _
-#     \__ \/ __ \/ ___/ / __ `/ /  / /|_/ / _ \/ __  / / __ `/
-#    ___/ / /_/ / /__/ / /_/ / /  / /  / /  __/ /_/ / / /_/ /
-#   /____/\____/\___/_/\__,_/_/  /_/  /_/\___/\__,_/_/\__,_/
+
+#    _____            _       __   __  ___         ___
+#   / ___/____  _____(_)___ _/ /  /  |/  /__  ____/ (_)___ _
+#   \__ \/ __ \/ ___/ / __ `/ /  / /|_/ / _ \/ __  / / __ `/
+#  ___/ / /_/ / /__/ / /_/ / /  / /  / /  __/ /_/ / / /_/ /
+# /____/\____/\___/_/\__,_/_/  /_/  /_/\___/\__,_/_/\__,_/
 #
-#  Open _data/socialmedia.yml to adjust the left and right topbar navigation
-#
+# If you have social media-profiles put your username here.
+# Facebook and Twitter will be used in includes/helper/head.html
+# To inject some meta-data other services will be used in
+# _/includes/helper/footer.html.
 
 #socialmedia:
-#    twitter:
-#    facebook:
+#    youtube: PhlowMedia
+#    github: phlow
+#    twitter: phlow
+#    soundcloud: phlow
+#    instagram: phlowmedia
+    # facebook: phlow.media
+    # tumblr: motizen
+    # rss: # Full URL needed
 
 
 #        ____  _
@@ -203,7 +245,7 @@ msapplication_tilecolor:                '#fabb00'
 #
 # used in _includes/comments
 
-#disqus_shortname:
+#disqus_shortname: feelingresponsive
 
 
 #      _____
@@ -214,8 +256,8 @@ msapplication_tilecolor:                '#fabb00'
 #
 
 sass:
-    sass_dir : _sass
-    style    : :compressed
+    sass_dir: _sass
+    style: :compressed
 
 
 #       ___                __      __  _
@@ -227,7 +269,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-#google_analytics_tracking_id: UA-60112281-1
+google_analytics_tracking_id: UA-60112281-1
 
 
 

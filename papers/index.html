@@ -1,0 +1,23 @@
+---
+layout: page
+header:
+  image: "image8_with_welcome_sun2.png"
+  background-color: ""
+permalink: "/papers/"
+---
+
+{% for paper in site.categories.papers %}
+    {% cycle 'add rows': '<div class="row">', nil, nil %}
+		<div class="col-md-4" style="min-height: 140px;">
+            <a href="{{ paper.doi }}">
+                <img width=200 src="{{ paper.image }}">
+            </a>
+            <div>
+                <a href="{{ paper.doi }}">{{ paper.title }}</a>
+                <p>{{ paper.ref }}</p>
+            </div>
+        </div>
+    {% cycle 'close rows': nil, nil, '</div>' %}
+{% endfor %}
+{% cycle 'close rows': nil, '</div>', '</div>' %}
+<div class="spacer"></div>

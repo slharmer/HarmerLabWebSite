@@ -6,7 +6,7 @@ There are two types of includes...
 
 ## 1. includes for templates.
 
-All includes with `_` are used for templates, like for example the `_head.html` or `_footer.html`.
+All includes in helper are used in templates.
 
 
 
@@ -20,6 +20,6 @@ Checkout for example `alert`:
 
 or
 
-{% include gallery %}
+{% include search %}
 
 Enjoy :)
