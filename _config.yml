@@ -30,8 +30,8 @@ author: Stacey Harmer
 #  I THINK I"LL NEED TO COME BACK AND CHANGE LATER
 #
 #   url: /Users/slharmer/HarmerLabWebSite/
-url: 'https://slharmer.github.io'
-#  baseurl: '/HarmerLabWebSite'
+# url: 'https://slharmer.github.io'
+baseurl: '/HarmerLabWebSite'
 
 
 # This is for the editing function in _/includes/improve_content

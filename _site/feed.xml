@@ -1,104 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/HarmerLabWebSite/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/HarmerLabWebSite/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Harmer Lab</title>
 		<description>This is the website for the Harmer lab, located in the &lt;a href=&quot;http://www-plb.ucdavis.edu&quot;&gt;Department of Plant Biology&lt;/a&gt; at the &lt;a href=&quot;https://www.ucdavis.edu&quot;&gt;University of California, Davis.&lt;/a</description>
-		<link>http://localhost:4000//</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000/HarmerLabWebSite//</link>
+		<atom:link href="http://localhost:4000/HarmerLabWebSite/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Arabidopsis JMJD5/JMJ30 acts independently of LUX ARRHYTHMO within the plant circadian clock to enable temperature compensation</title>
-				<link>http://localhost:4000/papers/jones-jmjd5/</link>
+				<link>http://localhost:4000/HarmerLabWebSite/papers/jones-jmjd5/</link>
 				<pubDate>Fri, 01 Feb 2019 00:00:00 -0800</pubDate>
 				<description>&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;The circadian system ensures that plants respond appropriately to environmental change by predicting regular transitions that occur during diel cycles. In order to be most useful, the circadian system needs to be compensated against daily and seasonal changes in temperature that would otherwise alter the pace of this biological oscillator. We demonstrate that an evening-phased protein, the putative histone demethylase JMJD5, contributes to temperature compensation. JMJD5 is co-expressed with components of the Evening Complex, an agglomeration of proteins including EARLY FLOWERING3 (ELF3), ELF4, and LUX ARRHYTHYMO (LUX), which also integrates temperature changes into the molecular clockwork. One role of the Evening Complex is to regulate expression of PSEUDORESPONSE REGULATOR9 (PRR9) and PRR7, important components of the temperature compensation mechanism. Surprisingly we find that LUX, but not other Evening Complex components, is dispensable for clock function at low temperatures. Further genetic analysis suggests JMJD5 acts in a parallel pathway to LUX within the circadian system. Although an intact JMJD5 catalytic domain is required for its function within the clock, our findings suggest JMJD5 does not directly regulate H3K36 methylation at circadian loci. Such data refine our understanding of how JMDJ5 acts within the Arabidopsis circadian system.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/papers/jones-jmjd5/</guid>
+				<guid isPermaLink="true">http://localhost:4000/HarmerLabWebSite/papers/jones-jmjd5/</guid>
 			</item>
 		
 			<item>
 				<title>Multiple feedback loops of the Arabidopsis circadian clock provide rhythmic robustness across environmental conditions</title>
-				<link>http://localhost:4000/papers/shalit-kaneh/</link>
+				<link>http://localhost:4000/HarmerLabWebSite/papers/shalit-kaneh/</link>
 				<pubDate>Tue, 29 May 2018 00:00:00 -0700</pubDate>
 				<description>&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;Although circadian oscillators in diverse eukaryotes all depend on interlinked transcriptional feedback loops, specific components are not conserved across higher taxa. Moreover, the circadian network in the model plant Arabidopsis thaliana is notably more complex than those found in animals and fungi. Here, we combine mathematical modeling and experimental approaches to investigate the functions of two classes of Myb-like transcription factors that antagonistically regulate common target genes. Both CCA1/LHY- and RVE8-clade factors bind directly to the same cis-element, but the former proteins act primarily as repressors, while the latter act primarily as activators of gene expression. We find that simulation of either type of loss-of-function mutant recapitulates clock phenotypes previously reported in mutant plants, while simulated simultaneous loss of both type of factors largely rescues circadian phase at the expense of rhythmic amplitude. In accord with this prediction, we find that plants mutant for both activator- and repressor-type Mybs have near-normal circadian phase and period but reduced rhythmic amplitude. Although these mutants exhibit robust rhythms when grown at mild temperatures, they are largely arrhythmic at physiologically relevant but nonoptimal temperatures. LHY- and RVE8-type Mybs are found in separate clades across the land plant lineage and even in some unicellular green algae, suggesting that they both may have functioned in even the earliest arising plant circadian oscillators. Our data suggest that the complexity of the plant circadian network may have arisen to provide rhythmic robustness across the range of environmental extremes to which plants, as sessile organisms, are regularly subjected.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/papers/shalit-kaneh/</guid>
+				<guid isPermaLink="true">http://localhost:4000/HarmerLabWebSite/papers/shalit-kaneh/</guid>
 			</item>
 		
 			<item>
 				<title>Growth-mediated plant movements - hidden in plain sight</title>
-				<link>http://localhost:4000/papers/harmer-review/</link>
+				<link>http://localhost:4000/HarmerLabWebSite/papers/harmer-review/</link>
 				<pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
 				<description>&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;While fast plant movements are spectacular but rare, almost all plants exhibit relatively slow, growth-mediated tropic movements that are key to their survival in the natural world. In this brief review, we discuss recent insights into the molecular mechanisms underlying phototropism, gravitropism, hydrotropism, and autostraightening. Careful molecular genetic and physiological studies have helped confirm the importance of lateral auxin gradients in gravitropic and phototropic responses. However, auxin signaling does not explain all tropisms: recent work has shown that abscisic acid signaling mediates root hydrotropism and has implicated mechanosensing in autostraightening, the organ straightening process recently modeled as a proprioceptive response. The interactions between distinct tropic signaling pathways and other internal and external sensory processes are also now being untangled.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/papers/harmer-review/</guid>
+				<guid isPermaLink="true">http://localhost:4000/HarmerLabWebSite/papers/harmer-review/</guid>
 			</item>
 		
 			<item>
 				<title>Circadian rhythms vary over the growing season and correlate with fitness components</title>
-				<link>http://localhost:4000/papers/Rubin-etal/</link>
+				<link>http://localhost:4000/HarmerLabWebSite/papers/Rubin-etal/</link>
 				<pubDate>Thu, 17 Aug 2017 00:00:00 -0700</pubDate>
 				<description>&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;Circadian clocks have evolved independently in all three domains of life, suggesting that internal mechanisms of time‐keeping are adaptive in contemporary populations. However, the performance consequences of either discrete or quantitative clock variation have rarely been tested in field settings. Clock sensitivity of diverse segregating lines to the environment remains uncharacterized as do the statistical genetic parameters that determine evolutionary potential. In field studies with Arabidopsis thaliana, we found that major perturbations to circadian cycle length (referred to as clock period) via mutation reduce both survival and fecundity. Subtler adjustments via genomic introgression of naturally occurring alleles indicated that clock periods slightly &amp;gt;24 hr were adaptive, consistent with prior models describing how well the timing of biological processes is adjusted within a diurnal cycle (referred to as phase). In segregating recombinant inbred lines (RILs), circadian phase varied up to 2 hr across months of the growing season, and both period and phase expressed significant genetic variances. Performance metrics including developmental rate, size and fruit set were described by principal components (PC) analyses and circadian parameters correlated with the first PC, such that period lengths slightly &amp;gt;24 hr were associated with improved performance in multiple RIL sets. These experiments translate functional analyses of clock behaviour performed in controlled settings to natural ones, demonstrating that quantitative variation in circadian phase is highly responsive to seasonally variable abiotic factors. The results expand upon prior studies in controlled settings, showing that discrete and quantitative variation in clock phenotypes correlates with performance in nature.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/papers/Rubin-etal/</guid>
+				<guid isPermaLink="true">http://localhost:4000/HarmerLabWebSite/papers/Rubin-etal/</guid>
 			</item>
 		
 			<item>
 				<title>The REVEILLE clock genes inhibit growth of juvenile and adult plants by control of cell size</title>
-				<link>http://localhost:4000/papers/Gray-etal/</link>
+				<link>http://localhost:4000/HarmerLabWebSite/papers/Gray-etal/</link>
 				<pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
 				<description>&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;The circadian clock is a complex regulatory network that enhances plant growth and fitness in a constantly changing environment. In Arabidopsis (Arabidopsis thaliana), the clock is composed of numerous regulatory feedback loops in which REVEILLE8 (RVE8) and its homologs RVE4 and RVE6 act in a partially redundant manner to promote clock pace. Here, we report that the remaining members of the RVE8 clade, RVE3 and RVE5, play only minor roles in the regulation of clock function. However, we find that RVE8 clade proteins have unexpected functions in the modulation of light input to the clock and the control of plant growth at multiple stages of development. In seedlings, these proteins repress hypocotyl elongation in a daylength- and sucrose-dependent manner. Strikingly, adult rve4 6 8 and rve3 4 5 6 8 mutants are much larger than wild-type plants, with both increased leaf area and biomass. This size phenotype is associated with a faster growth rate and larger cell size and is not simply due to a delay in the transition to flowering. Gene expression and epistasis analysis reveal that the growth phenotypes of rve mutants are due to the misregulation of PHYTOCHROME INTERACTING FACTOR4 (PIF4) and PIF5 expression. Our results show that even small changes in PIF gene expression caused by the perturbation of clock gene function can have large effects on the growth of adult plants.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/papers/Gray-etal/</guid>
+				<guid isPermaLink="true">http://localhost:4000/HarmerLabWebSite/papers/Gray-etal/</guid>
 			</item>
 		
 			<item>
 				<title>YUCCA auxin biosynthetic genes are required for Arabidopsis shade avoidance</title>
-				<link>http://localhost:4000/papers/Muller-Moule/</link>
+				<link>http://localhost:4000/HarmerLabWebSite/papers/Muller-Moule/</link>
 				<pubDate>Thu, 13 Oct 2016 00:00:00 -0700</pubDate>
 				<description>&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;Plants respond to neighbor shade by increasing stem and petiole elongation. Shade, sensed by phytochrome photoreceptors, causes stabilization of PHYTOCHROME INTERACTING FACTOR proteins and subsequent induction of YUCCA auxin biosynthetic genes. To investigate the role of YUCCA genes in phytochrome-mediated elongation, we examined auxin signaling kinetics after an end-of-day far-red (EOD-FR) light treatment, and found that an auxin responsive reporter is rapidly induced within 2 hours of far-red exposure. YUCCA2, 5, 8, and 9 are all induced with similar kinetics suggesting that they could act redundantly to control shade-mediated elongation. To test this hypothesis we constructed a yucca2, 5, 8, 9 quadruple mutant and found that the hypocotyl and petiole EOD-FR and shade avoidance responses are completely disrupted. This work shows that YUCCA auxin biosynthetic genes are essential for detectable shade avoidance and that YUCCA genes are important for petiole shade avoidance.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/papers/Muller-Moule/</guid>
+				<guid isPermaLink="true">http://localhost:4000/HarmerLabWebSite/papers/Muller-Moule/</guid>
 			</item>
 		
 			<item>
 				<title>Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits</title>
-				<link>http://localhost:4000/papers/Atamian-Science/</link>
+				<link>http://localhost:4000/HarmerLabWebSite/papers/Atamian-Science/</link>
 				<pubDate>Fri, 05 Aug 2016 00:00:00 -0700</pubDate>
 				<description>&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;Young sunflower plants track the Sun from east to west during the day and then reorient during the night to face east in anticipation of dawn. In contrast, mature plants cease movement with their flower heads facing east. We show that circadian regulation of directional growth pathways accounts for both phenomena and leads to increased vegetative biomass and enhanced pollinator visits to flowers. Solar tracking movements are driven by antiphasic patterns of elongation on the east and west sides of the stem. Genes implicated in control of phototropic growth, but not clock genes, are differentially expressed on the opposite sides of solar tracking stems. Thus, interactions between environmental response pathways and the internal circadian oscillator coordinate physiological processes with predictable changes in the environment to influence growth and reproduction.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/papers/Atamian-Science/</guid>
+				<guid isPermaLink="true">http://localhost:4000/HarmerLabWebSite/papers/Atamian-Science/</guid>
 			</item>
 		
 			<item>
 				<title>Circadian regulation of hormone signaling and plant physiology</title>
-				<link>http://localhost:4000/papers/atamian-review/</link>
+				<link>http://localhost:4000/HarmerLabWebSite/papers/atamian-review/</link>
 				<pubDate>Sat, 09 Apr 2016 00:00:00 -0700</pubDate>
 				<description>&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;The sensitivity of the circadian system to light allows entrainment of the clock, permitting coordination of plant metabolic function and flowering time across seasons. Light affects the circadian system via both photoreceptors, such as phytochromes and cryptochromes, and sugar production by photosynthesis. In the present study, we introduce a constitutively active version of phytochrome B-Y276H (YHB) into both wild-type and phytochrome null backgrounds of Arabidopsis (Arabidopsis thaliana) to distinguish the effects of photoreceptor signaling on clock function from those of photosynthesis. We find that the YHB mutation is sufficient to phenocopy red light input into the circadian mechanism and to sustain robust rhythms in steady-state mRNA levels even in plants grown without light or exogenous sugars. The pace of the clock is insensitive to light intensity in YHB plants, indicating that light input to the clock is constitutively activated by this allele. Mutation of YHB so that it is retained in the cytoplasm abrogates its effects on clock function, indicating that nuclear localization of phytochrome is necessary for its clock regulatory activity. We also demonstrate a role for phytochrome C as part of the red light sensing network that modulates phytochrome B signaling input into the circadian system. Our findings indicate that phytochrome signaling in the nucleus plays a critical role in sustaining robust clock function under red light, even in the absence of photosynthesis or exogenous sources of energy.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/papers/atamian-review/</guid>
+				<guid isPermaLink="true">http://localhost:4000/HarmerLabWebSite/papers/atamian-review/</guid>
 			</item>
 		
 			<item>
 				<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
-				<link>http://localhost:4000/design/mediaelement_js/</link>
+				<link>http://localhost:4000/HarmerLabWebSite/design/mediaelement_js/</link>
 				<pubDate>Thu, 15 Oct 2015 00:00:00 -0700</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
@@ -130,18 +130,18 @@
 &lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/design/mediaelement_js/</guid>
+				<guid isPermaLink="true">http://localhost:4000/HarmerLabWebSite/design/mediaelement_js/</guid>
 			</item>
 		
 			<item>
 				<title>A constitutively active allele of phytochrome B maintains circadian robustness in the absence of light</title>
-				<link>http://localhost:4000/papers/jones-yhb/</link>
+				<link>http://localhost:4000/HarmerLabWebSite/papers/jones-yhb/</link>
 				<pubDate>Thu, 01 Oct 2015 00:00:00 -0700</pubDate>
 				<description>&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
 &lt;p&gt;The sensitivity of the circadian system to light allows entrainment of the clock, permitting coordination of plant metabolic function and flowering time across seasons. Light affects the circadian system via both photoreceptors, such as phytochromes and cryptochromes, and sugar production by photosynthesis. In the present study, we introduce a constitutively active version of phytochrome B-Y276H (YHB) into both wild-type and phytochrome null backgrounds of Arabidopsis (Arabidopsis thaliana) to distinguish the effects of photoreceptor signaling on clock function from those of photosynthesis. We find that the YHB mutation is sufficient to phenocopy red light input into the circadian mechanism and to sustain robust rhythms in steady-state mRNA levels even in plants grown without light or exogenous sugars. The pace of the clock is insensitive to light intensity in YHB plants, indicating that light input to the clock is constitutively activated by this allele. Mutation of YHB so that it is retained in the cytoplasm abrogates its effects on clock function, indicating that nuclear localization of phytochrome is necessary for its clock regulatory activity. We also demonstrate a role for phytochrome C as part of the red light sensing network that modulates phytochrome B signaling input into the circadian system. Our findings indicate that phytochrome signaling in the nucleus plays a critical role in sustaining robust clock function under red light, even in the absence of photosynthesis or exogenous sources of energy.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/papers/jones-yhb/</guid>
+				<guid isPermaLink="true">http://localhost:4000/HarmerLabWebSite/papers/jones-yhb/</guid>
 			</item>
 		
 	</channel>
