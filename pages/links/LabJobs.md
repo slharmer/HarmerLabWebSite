@@ -53,4 +53,4 @@ __Everyone’s responsibilities:__
 
 Rinse glassware and place in dishwashing tray immediately after use (taking special care to rinse glassware containing agarose well).  If you use things that don’t get washed in the dishwasher (mortar and pestle, centrifuge bottles, gel plates and trays, graduated cylinders, etc.), wash them yourself immediately after use!
 
-__Please pick up after yourself and keep the lab tidy!__
+**Please pick up after yourself and keep the lab tidy!**
