@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000//</id>
 	<title>Harmer Lab</title>
-	<updated>2019-05-08T10:30:45-07:00</updated>
+	<updated>2019-05-08T11:25:30-07:00</updated>
 
 	<subtitle>This is the website for the Harmer lab, located in the &lt;a href=&quot;http://www-plb.ucdavis.edu&quot;&gt;Department of Plant Biology&lt;/a&gt; at the &lt;a href=&quot;https://www.ucdavis.edu&quot;&gt;University of California, Davis.&lt;/a</subtitle>
 
@@ -22,7 +22,7 @@
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
 	
 		<entry>
@@ -284,9 +284,8 @@
 			<summary>Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of &lt;em&gt;mediaelement.js&lt;/em&gt;. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8.</summary>
 			<content type="html" xml:base="http://localhost:4000/design/mediaelement_js/">&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;To use the player just use some HTML5-magic like…&lt;/p&gt;
 

@@ -17,7 +17,7 @@ The Harmer lab is in the [Department of Plant Biology](http://www-plb.ucdavis.ed
 <br>
 *Phone:* 530-752-8101
 <br>
-*Email:* slharmer@ucdavis.edu
+*Email:* <a href="mailto:slharmer@ucdavis.edu">slharmer@ucdavis.edu</a>
 <br>
 
 **Lab**

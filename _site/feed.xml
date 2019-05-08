@@ -102,9 +102,8 @@
 				<pubDate>Thu, 15 Oct 2015 00:00:00 -0700</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;To use the player just use some HTML5-magic like…&lt;/p&gt;
 
