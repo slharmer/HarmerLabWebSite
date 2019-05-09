@@ -31,7 +31,7 @@ author: Stacey Harmer
 #
 #   url: /Users/slharmer/HarmerLabWebSite/
 #url: 'https://slharmer.github.io/HarmerLabWebSite'
-baseurl: 'plantclock.org'
+baseurl: '/'
 
 
 # This is for the editing function in _/includes/improve_content
