@@ -170,7 +170,7 @@
 
                       
 
-                      <li><a href="http://localhost:4000/HarmerLabWebSite/links/safety/">Safety</a></li>
+                      <li><a href="http://localhost:4000/HarmerLabWebSite/links/safety.html">Safety</a></li>
                     
 
                       

@@ -26,7 +26,7 @@
   side: left
   dropdown:
   - title: "Safety"
-    url: "/links/safety/"
+    url: "/links/safety.html"
   - title: "Protocols and Links"
     url: "/links/protocols/"
   - title: "Meetings and Seminars"
