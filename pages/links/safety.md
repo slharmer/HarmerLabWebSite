@@ -16,11 +16,11 @@ permalink: "/links/safety"
 <h2>Guidelines and Training Documents</h2>
 <a name="guidelines"></a>
 
-* [General lab safety guidelines](/links/safety_info/lab_guidelines)
-* [Safety links for new lab personnel](/links/safety_info/NewSafety)
-* [Links for annual safety review](/links/safety_info/AnnualSafety)
+* [General lab safety guidelines]({{site.baseurl}}/links/safety_info/lab_guidelines)
+* [Safety links for new lab personnel]({{site.baseurl}}/links/safety_info/NewSafety)
+* [Links for annual safety review]({{site.baseurl}}/links/safety_info/AnnualSafety)
 * [UC Laboratory Safety Fundamentals Course; **required** training for all new lab members](https://safetyservices.ucdavis.edu/training/uc-laboratory-safety-fundamentals)
-* [Training form for new lab members *(to be completed after taking above on-line course)*](/assets/SiteSpecificSafetyOrientationTrainingNewPersonnel.pdf)
+* [Training form for new lab members *(to be completed after taking above on-line course)*]({{site.baseurl}}/assets/SiteSpecificSafetyOrientationTrainingNewPersonnel.pdf)
 * [UC Davis Safety Training Learning Center](http://lms.ucdavis.edu/)
 * [UC Davis Safety Services trouble shooting](http://safetyservices.ucdavis.edu/article/training-getting-started-and-troubleshooting)
 * [UC Davis Safety Training Matrix for Lab Personnel](http://safetyservices.ucdavis.edu/sites/default/files/documents/LabPersonnelTrainingMatrix.pdf)
@@ -29,7 +29,7 @@ permalink: "/links/safety"
 <h2>Standard Operating Procedures (SOPs), Safety Nets, Prevention Plans</h2>
 <a name="Plans"></a>
 
-* [Harmer Lab Safety Plan (Chemical Hygiene Plan)](/assets/ChemHygPlanHarmerLab.pdf)
+* [Harmer Lab Safety Plan (Chemical Hygiene Plan)]({{site.baseurl}}/assets/ChemHygPlanHarmerLab.pdf)
 * [Harmer Lab Carcinogens SOPs](/assets/UCDSOPHarmerLabCarcinogens.pdf)
 * [Harmer Lab Reprodutive Toxins SOPs](/assets/UCDSOPHarmerLabReproductiveToxins.pdf)
 * [Harmer Lab Acute Toxins SOPs](/assets/UCDSOPHarmerLabAcutelyToxic.pdf)
