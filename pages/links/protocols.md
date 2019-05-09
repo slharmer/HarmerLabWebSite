@@ -8,15 +8,15 @@ permalink: "/links/protocols"
 <h2>Lab Protocols</h2>
 <a name="Protocols"></a>
 
-* [Small-scale protein preparation from yeast](/assets/protocols/yeast-protein-prep.pdf)
-* [Yeast two-hybrid screening](/assets/protocols/yeast-two-hybrid-screening.pdf)
-* [96-well format DNA extractions for PCR](/assets/protocols/96-well-extraction.pdf)
-* [Using Dullahan CCD camera](/assets/protocols/Dullahan.pdf)
-* [Delayed fluorescence imaging](/assets/protocols/DelayedFluorescence.pdf)
-* [Hypocotyl measurements with ImageJ](/assets/protocols/HypocotylMeasurementImageJ.pdf)
+* [Small-scale protein preparation from yeast]({{site.baseurl}}/assets/protocols/yeast-protein-prep.pdf)
+* [Yeast two-hybrid screening]({{site.baseurl}}/assets/protocols/yeast-two-hybrid-screening.pdf)
+* [96-well format DNA extractions for PCR]({{site.baseurl}}/assets/protocols/96-well-extraction.pdf)
+* [Using Dullahan CCD camera]({{site.baseurl}}/assets/protocols/Dullahan.pdf)
+* [Delayed fluorescence imaging]({{site.baseurl}}/assets/protocols/DelayedFluorescence.pdf)
+* [Hypocotyl measurements with ImageJ]({{site.baseurl}}/assets/protocols/HypocotylMeasurementImageJ.pdf)
 * [Maloof lab protocols](http://malooflab.phytonetworks.org/wiki/Common_Lab_and_Mol_Bio_protocols/)
 * [Recording data in spreadsheets - *best practices*](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
-* [Exit instructions when leaving the lab](/links/ExitInstructions)
+* [Exit instructions when leaving the lab]({{site.baseurl}}/links/ExitInstructions)
 
 <h2>Useful Links</h2>
 <a name="links"></a>

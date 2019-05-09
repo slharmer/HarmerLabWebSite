@@ -30,11 +30,11 @@ permalink: "/links/safety"
 <a name="Plans"></a>
 
 * [Harmer Lab Safety Plan (Chemical Hygiene Plan)]({{site.baseurl}}/assets/ChemHygPlanHarmerLab.pdf)
-* [Harmer Lab Carcinogens SOPs](/assets/UCDSOPHarmerLabCarcinogens.pdf)
-* [Harmer Lab Reprodutive Toxins SOPs](/assets/UCDSOPHarmerLabReproductiveToxins.pdf)
-* [Harmer Lab Acute Toxins SOPs](/assets/UCDSOPHarmerLabAcutelyToxic.pdf)
+* [Harmer Lab Carcinogens SOPs]({{site.baseurl}}/assets/UCDSOPHarmerLabCarcinogens.pdf)
+* [Harmer Lab Reprodutive Toxins SOPs]({{site.baseurl}}/assets/UCDSOPHarmerLabReproductiveToxins.pdf)
+* [Harmer Lab Acute Toxins SOPs]({{site.baseurl}}/assets/UCDSOPHarmerLabAcutelyToxic.pdf)
 * [Biological Use Authorization (BUA) information](https://safetyservices.ucdavis.edu/article/biological-use-authorization-bua)
-* [Emergency Action and Evacuation Plan (EAP) for the Department of Plant Biology](/assets/2019_PLB_EAP.pdf)
+* [Emergency Action and Evacuation Plan (EAP) for the Department of Plant Biology]({{site.baseurl}}/assets/2019_PLB_EAP.pdf)
 * [Chemical Spill Cleanup (Safety Net #13)](https://safetyservices.ucdavis.edu/safetynet/guidelines-chemical-spill-control)
 * [Biological Spill Cleanup (Safety Net #127)](https://safetyservices.ucdavis.edu/sites/default/files/SafetyNet%20127b.pdf)
 * [Safety Data Sheets (SDS)](https://ehs.ucop.edu/sds/#/)

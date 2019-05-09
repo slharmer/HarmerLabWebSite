@@ -25,12 +25,12 @@ permalink: "/links/safety_info/NewSafety/"
 ##### Engineering Controls
     * [Chemical storage locations](http://ehs.ucop.edu/chemicals)
 ##### Administrative Controls
-    * [Chemical Hygiene Plan](/assets/ChemHygPlanHarmerLab.pdf)
+    * [Chemical Hygiene Plan]({{site.baseurl}}/assets/ChemHygPlanHarmerLab.pdf)
     * [SDS sheets](http://ehs.ucop.edu/sds/#/)
     * Standard Operating Procedures (SOPs)
-      * [Carcinogens](/assets/UCDSOPHarmerLabCarcinogens.pdf)
-      * [Reprodutive toxins](/assets/UCDSOPHarmerLabReproductiveToxins.pdf)
-      * [Acutely toxic solids and liquids](/assets/UCDSOPHarmerLabAcutelyToxic.pdf)
+      * [Carcinogens]({{site.baseurl}}/assets/UCDSOPHarmerLabCarcinogens.pdf)
+      * [Reprodutive toxins]({{site.baseurl}}/assets/UCDSOPHarmerLabReproductiveToxins.pdf)
+      * [Acutely toxic solids and liquids]({{site.baseurl}}/assets/UCDSOPHarmerLabAcutelyToxic.pdf)
 ##### Other
       * [Department Injury and Illness Prevention Plan (IIPP)](http://www-plb.ucdavis.edu/safety/2018%20PLB%20IIPP.pdf)
       * Work-related injuries should be reported within 24 hours
