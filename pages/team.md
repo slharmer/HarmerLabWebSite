@@ -3,7 +3,7 @@ layout: page-fullwidth
 header:
   image: "image8_with_welcome_sun2.png"
   background-color: ""
-permalink: "/team"
+permalink: "/team/"
 ---
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
