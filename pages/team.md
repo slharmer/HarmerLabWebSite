@@ -16,22 +16,22 @@ permalink: "/team/"
 <a name="Current_lab_members"></a>
 
 {% include team_member member_name="Stacey" full_name="Stacey Harmer, PhD" bio='<a href="mailto:slharmer@ucdavis.edu">Stacey Harmer</a> is a Professor in the Department of Plant Biology at UC Davis. She was awarded a BA in Biochemistry from the University of California, Berkeley and a PhD in Biochemistry at UC San Francisco. She then moved to a postdoctoral scholar position at the Scripps Research Institute.  Her research focuses on the plant circadian clock, addressing both the molecular nature of the oscillator that generates daily rhythms and aspects of plant physiology affected by the circadian system. She is particularly interested in exploring relationships between clock, light, and growth signaling pathways. Her recognitions have included a Howard Hughes Predoctoral Fellowship, an NIH National Research Service Award, an American Society for Photobiology New Investigator Award, the UC Davis College of Biological Sciences Faculty Research Award, and the UC Davis Chancellor’s Fellowship.'
-image="/assets/img/team/stacey-serious.jpg" position="PI" %}
+image="/assets/img/team/stacey-serious.jpg" position="Principal Investigator" %}
 
 {% include team_member member_name="Cassandra" full_name="Cassandra Baker" bio='When <a href="mailto:calbaker@ucdavis.edu">Cassandra Baker</a> was young, she learned the basics of equine coat color genetics and it drew her in. To continue learning about genotypes and phenotypes, she studied Genetics as an undergraduate at UC Davis and then continued at UC Davis in the Integrative Genetics and Genomics graduate group. As a Ph.D. candidate in the Harmer lab, she researches the circadian clock in <i>Arabidopsis thaliana</i>, a model plant, and she is excited to continue improving her understanding of the complexities of genetics and genomics research.'
-image="/assets/img/team/baker-pic-square.jpg" position="graduate student" %}
+image="/assets/img/team/baker-pic-square.jpg" position="Graduate Student" %}
 
 {% include team_member member_name="Chris" full_name="Chris Brooks, PhD" bio='<a href="mailto:cjbrooks@ucdavis.edu">Chris Brooks</a> is a PhD candidate in the Plant Biology Graduate Group, and he is interested in how the circadian clock and environmental stimuli interact to control plant growth and development. He studies this by looking at the molecular mechanisms that underlie heliotropism, the solar tracking behavior that sunflowers are famous for. Outside of the lab, Chris like spending his time watching and playing sports and taking advantage of the beautiful California weather.'
-image="/assets/img/team/chris-square.jpg" position="graduate student" %}
+image="/assets/img/team/chris-square.jpg" position="Graduate Student" %}
 
 {% include team_member member_name="Carine" full_name="Carine Marshall" bio='<a href="mailto:carinemarshall.lab@gmail.com">Carine Marshall</a> received her PhD in 2017 from UC Berkeley, where she studied the interaction between temperature and the Arabidopsis circadian clock. When she is not researching plants, she helps her husband grow plants on their small farm in the Capay Valley. She also loves to spend time with her son, Albie, and her two dogs.'
-image="/assets/img/team/Carine-small.jpg" position="post-doctoral scholar" %}
+image="/assets/img/team/Carine-small.jpg" position="Post-Doctoral Scholar" %}
 
 {% include team_member member_name="Veronica" full_name="Veronica Thompson" bio='<a href="mailto:vlthompson@ucdavis.edu">Veronica Thompson</a> is a PhD candidate in the Plant Biology graduate group. She studies circadian regulation of floret development in sunflower. In her spare time she likes baking cookies and exploring the neighborhood with her dog.'
-image="/assets/img/team/Thompson-square.jpg" position="graduate student" %}
+image="/assets/img/team/Thompson-square.jpg" position="Graduate Student" %}
 
 {% include team_member member_name="Hongtao" full_name="Hongtao Zhang" bio='<a href="mailto:htzhang@ucdavis.edu">Hongtao Zhang</a> is a PhD student in the Plant Biology Graduate Group. He is interested in understanding how plants integrate their internal cues with environmental factors. Now he is using molecular and genetic approaches to study the function of Arabidopsis circadian clock genes in plant physiology and immunity. Hongtao is a crazy soccer and tennis fan, and he also loves cooking in his spare time.'
-image="/assets/img/team/Hongtao-full.jpg" position="graduate student" %}
+image="/assets/img/team/Hongtao-full.jpg" position="Graduate Student" %}
 
 <h2>Lab alumni</h2>
 <a name="Lab_alumni"></a>
