@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="//assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="//assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000//</id>
 	<title>Harmer Lab</title>
-	<updated>2019-05-08T11:48:32-07:00</updated>
+	<updated>2019-06-02T18:28:59+02:00</updated>
 
 	<subtitle>This is the website for the Harmer lab, located in the &lt;a href=&quot;http://www-plb.ucdavis.edu&quot;&gt;Department of Plant Biology&lt;/a&gt; at the &lt;a href=&quot;https://www.ucdavis.edu&quot;&gt;University of California, Davis.&lt;/a</subtitle>
 
@@ -29,7 +29,7 @@
 			<id>http://localhost:4000/papers/jones-jmjd5/</id>
 			<title>Arabidopsis JMJD5/JMJ30 acts independently of LUX ARRHYTHMO within the plant circadian clock to enable temperature compensation</title>
 			<link href="http://localhost:4000/papers/jones-jmjd5/" rel="alternate" type="text/html" title="Arabidopsis JMJD5/JMJ30 acts independently of LUX ARRHYTHMO within the plant circadian clock to enable temperature compensation" />
-			<updated>2019-02-01T00:00:00-08:00</updated>
+			<updated>2019-02-01T00:00:00+01:00</updated>
 
 			
 				
@@ -52,14 +52,14 @@
 			
 			
 
-			<published>2019-02-01T00:00:00-08:00</published>
+			<published>2019-02-01T00:00:00+01:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/papers/shalit-kaneh/</id>
 			<title>Multiple feedback loops of the Arabidopsis circadian clock provide rhythmic robustness across environmental conditions</title>
 			<link href="http://localhost:4000/papers/shalit-kaneh/" rel="alternate" type="text/html" title="Multiple feedback loops of the Arabidopsis circadian clock provide rhythmic robustness across environmental conditions" />
-			<updated>2018-05-29T00:00:00-07:00</updated>
+			<updated>2018-05-29T00:00:00+02:00</updated>
 
 			
 				
@@ -82,14 +82,14 @@
 			
 			
 
-			<published>2018-05-29T00:00:00-07:00</published>
+			<published>2018-05-29T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/papers/harmer-review/</id>
 			<title>Growth-mediated plant movements - hidden in plain sight</title>
 			<link href="http://localhost:4000/papers/harmer-review/" rel="alternate" type="text/html" title="Growth-mediated plant movements - hidden in plain sight" />
-			<updated>2017-10-01T00:00:00-07:00</updated>
+			<updated>2017-10-01T00:00:00+02:00</updated>
 
 			
 				
@@ -112,14 +112,14 @@
 			
 			
 
-			<published>2017-10-01T00:00:00-07:00</published>
+			<published>2017-10-01T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/papers/Rubin-etal/</id>
 			<title>Circadian rhythms vary over the growing season and correlate with fitness components</title>
 			<link href="http://localhost:4000/papers/Rubin-etal/" rel="alternate" type="text/html" title="Circadian rhythms vary over the growing season and correlate with fitness components" />
-			<updated>2017-08-17T00:00:00-07:00</updated>
+			<updated>2017-08-17T00:00:00+02:00</updated>
 
 			
 				
@@ -142,14 +142,14 @@
 			
 			
 
-			<published>2017-08-17T00:00:00-07:00</published>
+			<published>2017-08-17T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/papers/Gray-etal/</id>
 			<title>The REVEILLE clock genes inhibit growth of juvenile and adult plants by control of cell size</title>
 			<link href="http://localhost:4000/papers/Gray-etal/" rel="alternate" type="text/html" title="The REVEILLE clock genes inhibit growth of juvenile and adult plants by control of cell size" />
-			<updated>2017-04-01T00:00:00-07:00</updated>
+			<updated>2017-04-01T00:00:00+02:00</updated>
 
 			
 				
@@ -172,14 +172,14 @@
 			
 			
 
-			<published>2017-04-01T00:00:00-07:00</published>
+			<published>2017-04-01T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/papers/Muller-Moule/</id>
 			<title>YUCCA auxin biosynthetic genes are required for Arabidopsis shade avoidance</title>
 			<link href="http://localhost:4000/papers/Muller-Moule/" rel="alternate" type="text/html" title="YUCCA auxin biosynthetic genes are required for Arabidopsis shade avoidance" />
-			<updated>2016-10-13T00:00:00-07:00</updated>
+			<updated>2016-10-13T00:00:00+02:00</updated>
 
 			
 				
@@ -202,14 +202,14 @@
 			
 			
 
-			<published>2016-10-13T00:00:00-07:00</published>
+			<published>2016-10-13T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/papers/Atamian-Science/</id>
 			<title>Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits</title>
 			<link href="http://localhost:4000/papers/Atamian-Science/" rel="alternate" type="text/html" title="Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits" />
-			<updated>2016-08-05T00:00:00-07:00</updated>
+			<updated>2016-08-05T00:00:00+02:00</updated>
 
 			
 				
@@ -232,14 +232,14 @@
 			
 			
 
-			<published>2016-08-05T00:00:00-07:00</published>
+			<published>2016-08-05T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/papers/atamian-review/</id>
 			<title>Circadian regulation of hormone signaling and plant physiology</title>
 			<link href="http://localhost:4000/papers/atamian-review/" rel="alternate" type="text/html" title="Circadian regulation of hormone signaling and plant physiology" />
-			<updated>2016-04-09T00:00:00-07:00</updated>
+			<updated>2016-04-09T00:00:00+02:00</updated>
 
 			
 				
@@ -262,14 +262,14 @@
 			
 			
 
-			<published>2016-04-09T00:00:00-07:00</published>
+			<published>2016-04-09T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/design/mediaelement_js/</id>
 			<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
 			<link href="http://localhost:4000/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" />
-			<updated>2015-10-15T00:00:00-07:00</updated>
+			<updated>2015-10-15T00:00:00+02:00</updated>
 
 			
 				
@@ -324,14 +324,14 @@
 				<category term="streaming music" />
 			
 
-			<published>2015-10-15T00:00:00-07:00</published>
+			<published>2015-10-15T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/papers/jones-yhb/</id>
 			<title>A constitutively active allele of phytochrome B maintains circadian robustness in the absence of light</title>
 			<link href="http://localhost:4000/papers/jones-yhb/" rel="alternate" type="text/html" title="A constitutively active allele of phytochrome B maintains circadian robustness in the absence of light" />
-			<updated>2015-10-01T00:00:00-07:00</updated>
+			<updated>2015-10-01T00:00:00+02:00</updated>
 
 			
 				
@@ -354,7 +354,7 @@
 			
 			
 
-			<published>2015-10-01T00:00:00-07:00</published>
+			<published>2015-10-01T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
