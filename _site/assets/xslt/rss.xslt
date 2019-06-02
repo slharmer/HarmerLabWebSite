@@ -10,7 +10,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/HarmerLabWebSite/assets/css/feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000//assets/css/feeling_responsive.css">
 
   
 
@@ -35,12 +35,12 @@
 
 
 
-<link rel="canonical" href="http://localhost:4000/HarmerLabWebSite/assets/xslt/rss.xslt">
+<link rel="canonical" href="http://localhost:4000//assets/xslt/rss.xslt">
 
 	<!-- Facebook Open Graph -->
 <meta property="og:title" content="RSS Feed (Styled)">
 <meta property="og:description" content="This is the website for the Harmer lab, located in the Department of Plant Biology at the University of California, Davis.&lt;/a">
-<meta property="og:url" content="http://localhost:4000/HarmerLabWebSite/assets/xslt/rss.xslt">
+<meta property="og:url" content="http://localhost:4000//assets/xslt/rss.xslt">
 <meta property="og:locale" content="en_EN">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Harmer Lab">
@@ -49,22 +49,22 @@
 
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/HarmerLabWebSite/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000//humans.txt">
 
 	
 
 	
-  <link rel="icon" sizes="32x32" href="http://localhost:4000/HarmerLabWebSite/assets/img/favicon-32x32.png" />
-  <link rel="icon" sizes="192x192" href="http://localhost:4000/HarmerLabWebSite/assets/img/touch-icon-192x192.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-180x180-precomposed.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-152x152-precomposed.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-144x144-precomposed.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-120x120-precomposed.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-114x114-precomposed.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-76x76-precomposed.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-72x72-precomposed.png" />
-  <link rel="apple-touch-icon-precomposed" href="http://localhost:4000/HarmerLabWebSite/assets/img/apple-touch-icon-precomposed.png" />
-  <meta name="msapplication-TileImage" content="http://localhost:4000/HarmerLabWebSite/assets/img/msapplication_tileimage.png" />
+  <link rel="icon" sizes="32x32" href="http://localhost:4000//assets/img/favicon-32x32.png" />
+  <link rel="icon" sizes="192x192" href="http://localhost:4000//assets/img/touch-icon-192x192.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000//assets/img/apple-touch-icon-180x180-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000//assets/img/apple-touch-icon-152x152-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000//assets/img/apple-touch-icon-144x144-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000//assets/img/apple-touch-icon-120x120-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000//assets/img/apple-touch-icon-114x114-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000//assets/img/apple-touch-icon-76x76-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000//assets/img/apple-touch-icon-72x72-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" href="http://localhost:4000//assets/img/apple-touch-icon-precomposed.png" />
+  <meta name="msapplication-TileImage" content="http://localhost:4000//assets/img/msapplication_tileimage.png" />
   <meta name="msapplication-TileColor" content="#fabb00" />
 
 
@@ -97,7 +97,7 @@
 
     
             
-              <li><a href="http://localhost:4000/HarmerLabWebSite/">Home</a></li>
+              <li><a href="http://localhost:4000//">Home</a></li>
 
 
     
@@ -113,7 +113,7 @@
 
     
             
-              <li><a href="http://localhost:4000/HarmerLabWebSite/research/">Research</a></li>
+              <li><a href="http://localhost:4000//research/">Research</a></li>
 
 
     
@@ -129,7 +129,7 @@
 
     
             
-              <li><a href="http://localhost:4000/HarmerLabWebSite/team/">Lab members</a></li>
+              <li><a href="http://localhost:4000//team/">Lab members</a></li>
 
 
     
@@ -145,7 +145,7 @@
 
     
             
-              <li><a href="http://localhost:4000/HarmerLabWebSite/papers/">Publications</a></li>
+              <li><a href="http://localhost:4000//papers/">Publications</a></li>
 
 
     
@@ -163,24 +163,24 @@
             
 
               <li class="">
-                <a href="http://localhost:4000/HarmerLabWebSite/links/">Links</a>
+                <a href="http://localhost:4000//links/">Links</a>
 
                   <ul class="menu vertical">
                     
 
                       
 
-                      <li><a href="http://localhost:4000/HarmerLabWebSite/links/safety.html">Safety</a></li>
+                      <li><a href="http://localhost:4000//links/safety.html">Safety</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/HarmerLabWebSite/links/protocols.html">Protocols and Links</a></li>
+                      <li><a href="http://localhost:4000//links/protocols.html">Protocols and Links</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/HarmerLabWebSite/links/seminars.html">Meetings and Seminars</a></li>
+                      <li><a href="http://localhost:4000//links/seminars.html">Meetings and Seminars</a></li>
                     
                   </ul>
 
@@ -197,7 +197,7 @@
 
     
             
-              <li><a href="http://localhost:4000/HarmerLabWebSite/contact/">Contact</a></li>
+              <li><a href="http://localhost:4000//contact/">Contact</a></li>
 
 
     
@@ -222,8 +222,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/HarmerLabWebSite/" title="Harmer Lab – Plant circadian rhythms">
-				<img src="http://localhost:4000/HarmerLabWebSite/assets/img/" alt="Harmer Lab – Plant circadian rhythms">
+			<a id="logo" href="http://localhost:4000/" title="Harmer Lab – Plant circadian rhythms">
+				<img src="http://localhost:4000/assets/img/" alt="Harmer Lab – Plant circadian rhythms">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -304,7 +304,7 @@
 
 		
 
-<script src="http://localhost:4000/HarmerLabWebSite/assets/js/javascript.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.js"></script>
 
 
 
