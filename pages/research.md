@@ -54,7 +54,7 @@ This led us to investigate a possible role for the plant clock in sunflower heli
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCRNHdGXTi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Animation of solar tracking sunflowers, summary of results in [Atamian et al (2018) Science](http://science.sciencemag.org/content/353/6299/587).*
+*Animation of solar tracking sunflowers, summary of results in [Atamian et al (2016) Science](http://science.sciencemag.org/content/353/6299/587).*
 
 We found that the back-and-forth bending of young plants is driven by asymmetric growth on the east and west sides of the stem, with the east side growing faster during the day and the west side growing faster at night.
 
