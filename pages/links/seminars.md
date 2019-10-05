@@ -13,7 +13,7 @@ permalink: "/links/seminars"
 <br>
 <br>
 * R Club, [Statistical Rethinking](https://github.com/rmcelreath/statrethinking_winter2019) by Richard McElreath
-    * Spring quarter, 2019:  Fridays at 2 pm in LS 1020
+    * Fall quarter, 2019:  Fridays at 2 pm in LS 1020
     * [Github repository](https://github.com/UCD-pbio-rclub)
 
 * [UC Davis College of Biological Sciences - *all events*](https://biology.ucdavis.edu/events/all-events)
