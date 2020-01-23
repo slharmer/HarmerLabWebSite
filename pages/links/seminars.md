@@ -9,7 +9,7 @@ permalink: "/links/seminars"
 <a name="Seminars"></a>
 
 * Harmer/Maloof lab joint group meeting schedule
-  * [Fall, 2019:  Fridays 10:30 AM - 12:00 PM in LS 1020](http://malooflab.phytonetworks.org/schedules/group-meeting-winter-2020/)
+  * [Winter, 2020:  Fridays 10:30 AM - 12:00 PM in LS 1020](http://malooflab.phytonetworks.org/schedules/group-meeting-winter-2020/)
 <br>
 <br>
 * R Club, [Statistical Rethinking](https://github.com/rmcelreath/statrethinking_winter2019) by Richard McElreath
