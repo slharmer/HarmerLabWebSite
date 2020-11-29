@@ -10,10 +10,10 @@ permalink: "/links/safety_info/lab_guidelines/"
 <a name="guidelines"></a>
 
 1. **No eating or drinking in the lab.** Food and beverages are not allowed in lab refrigerators, freezers, or microwaves. Always wash your hands after working in the laboratory, especially before eating.
-2. **Remove your gloves** before opening doors, answering the phone, or handling anything that would reasonably be assumed to be clean. Your gloves *may* be clean, but no one else knows that. 
+2. **Remove your gloves** before opening doors, answering the phone, or handling anything that would reasonably be assumed to be clean. Your gloves *may* be clean, but no one else knows that.
 3. When using a chemical or reagent, check the label for information and about health hazards.
-4. Additional information about the safety of particular chemicals can be found by looking at the [Material Safety Data Sheets (MSDS)](https://ehs.ucop.edu/sds/#/). Safety guidelines or Standard Operating Procedures (SOPs) for the use of specific chemicals can be found [here.](/links/safety)
-5. Before working with a hazardous material for the first time ask about lab safety protocols for that material and consult [SOPs](/links/safety) and/or [MSDSs](https://ehs.ucop.edu/sds/#/).
+4. Additional information about the safety of particular chemicals can be found by looking at the [Material Safety Data Sheets (MSDS)](https://ehs.ucop.edu/sds/#/). Safety guidelines or Standard Operating Procedures (SOPs) for the use of specific chemicals can be found [here.]({{site.baseurl}}/links/safety)
+5. Before working with a hazardous material for the first time ask about lab safety protocols for that material and consult [SOPs]({{site.baseurl}}/links/safety) and/or [MSDSs](https://ehs.ucop.edu/sds/#/).
 6. Protective goggles, lab coats, gloves, and closed toed shoes should be worn when working with hazardous material such as (but not limited to):
 * Strong Acids
 * Strong Bases
