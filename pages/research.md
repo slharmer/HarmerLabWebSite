@@ -34,15 +34,15 @@ Our results ([Shalit-Kaneh et al (2018) *PNAS*](https://www.ncbi.nlm.nih.gov/pmc
 
 <div class="spacer"></div>
 
-We are also investigating how XCT, a protein conserved across eukaryotes ([Martin-Tryon and Harmer (2008) *Plant Cell*](http://www.plantcell.org/content/plantcell/20/5/1244.full.pdf)), links the plant circadian oscillator with other fundamental cellular processes. Intriguingly, not only can Arabidopsis *XCT* rescue growth phenotypes in fission yeast mutant for the *S. pombe* ortholog ([Anver et al. (2014) *EMBO reports*](http://embor.embopress.org/content/15/8/894.long)), but the fission yeast gene can also rescue Arabidopsis *XCT* mutants.
+We are also investigating how XCT, a protein conserved across eukaryotes ([Martin-Tryon and Harmer (2008) *Plant Cell*](http://www.plantcell.org/content/plantcell/20/5/1244.full.pdf)), links the plant circadian oscillator with other fundamental cellular processes. The Arabidopsis *XCT* gene rescues growth phenotypes in fission yeast mutant for the *S. pombe* ortholog  ([Anver et al. (2014) *EMBO reports*](http://embor.embopress.org/content/15/8/894.long)), suggesting deeply conserved functions for this protein. Indeed, we have recently found that XCT associates with other highly-conserved proteins to regulate pre-mRNA splicing ([Zhang et al. (2023) *Plant Physiology*](https://academic.oup.com/plphys/article-abstract/192/3/2492/7090265?redirectedFrom=fulltext&login=false)) and DNA damage responses ([Kumimoto et al. (2021) *Frontiers in Plant Sciences*](https://www.frontiersin.org/articles/10.3389/fpls.2021.707923/full)). However, our data suggests that XCT may have splicing-independent roles in the circadian system. 
 
-<div class="small-6 columns"><img src="{{site.baseurl}}/assets/img/research/xct-rescue.jpg">
+<div class="small-6 columns"><img src="{{site.baseurl}}/assets/img/research/xct-phase-splicing.png">
 </div>
-*Fission yeast Xap5 rescues Arabidopsis mutant for xct (Kumimoto et al, unpublished)*
+*Dawn-phased genes are more likely to be aberrantly spliced in xct mutants, from [Zhang et al (2023) Plant Physiology](https://academic.oup.com/plphys/article-abstract/192/3/2492/7090265?redirectedFrom=fulltext&login=false)*
 <div class="spacer"></div>
 <br>
 
-We are currently investigating the biochemical function of XCT and determining the cellular pathways in which it acts.
+We are further investigating the biochemical functions of XCT and determining the cellular pathways in which it acts.
 <br>
 
 <h3>Circadian and environmental control of growth and development</h3>
@@ -73,7 +73,9 @@ We are particularly interested in understanding the molecular growth pathways co
 
 During our analysis of solar tracking in sunflower, we became intrigued by a possible role for the circadian clock in regulation of flower development and pollination. Although sunflower heads appear to be single flowers, they are actually composed of hundreds or even thousands of individual florets grouped together into a flower-like structure called a capitulum. The individual disk florets found in the centers of these capitula in sunflower and many other members of the *Compositae* are protandrous; that is, they are male one day and then female the next day, a reproductive strategy that promotes outcrossing.
 
-Late-stage floret development progresses in  a stepwise manner from the outside of each disk in towards the middle. In domesticated sunflower, with its large capitulum, three or four rings of florets mature simultaneously on a given day. We have found that the circadian clock along with light and temperature signaling pathways regulates the precise timing of floret development and that this affects pollinator visits and reproductive fitness.
+We found that the circadian clock helps produce the near-uniform eastward orientation seen in mature sunflower plants [Atamian et al (2016) Science](http://science.sciencemag.org/content/353/6299/587). Moreover, we demonstrated that this eastward orientation affects the timing of floral development, pollinator visits, and male reproductive success [Creux et al (2021) *New Phytologist*](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17627).
+
+The circadian clock also plays a more direct role in floral development. Late-stage floret development progresses in  a stepwise manner from the outside of each disk in towards the middle. In domesticated sunflower, with its large capitulum, three or four rings of florets mature simultaneously on a given day. We have found that the circadian clock along with light and temperature signaling pathways regulates the pattern and precise timing of floret development and that this affects pollinator visits and reproductive fitness [Marshall et al (2016) *eLife*](https://elifesciences.org/articles/80984).
 
 <div class="small-6 columns"><img src="{{site.baseurl}}/assets/img/research/bee-on-flower.png">
 </div>

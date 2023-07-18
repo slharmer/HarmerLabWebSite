@@ -32,7 +32,8 @@ homepage: true
 ---
 This is the website for the Harmer lab, located in the <a href="http://www-plb.ucdavis.edu">Department of Plant Biology</a> at the <a href="https://www.ucdavis.edu">University of California, Davis.
 
-<img src="{{site.baseurl}}/assets/img/lab-pumpkin-patch-closer.jpg">
+
+<img src = "{{site.baseurl}}/assets/img/lab-pumpkin-patch-closer.jpg">
 
 <h3>Overview </h3 >
 
@@ -40,6 +41,6 @@ As rooted organisms living in a continually changing world, plants are masters a
 
 The Harmer lab uses <i>Arabidopsis thaliana</i> and sunflower as complementary model systems to better understand the molecular nature of the plant clock and how it influences growth and development.
 
-The study of circadian rhythms in plants presents a wide range of fascinating questions with real-world applications: What is the molecular nature of the circadian clock? What are the mechanistic links between the clock network and other signaling pathways? What aspects of physiology are under circadian regulation? How does a functional circadian clock provide an adaptive advantage?
+The study of circadian rhythms in plants presents a wide range of fascinating questions with real-world applications: What is the molecular nature of the circadian clock? What are the mechanistic links between the clock network and other fundamental cellular processes? What aspects of physiology are under circadian regulation? How does a functional circadian clock provide an adaptive advantage?
 
-We are using a wide range of approaches - genetic, genomic, biochemical, physiological, and ecological - to better understand the plant clock and its role in enhancing plant growth and development in the natural world.
+We use a variety of approaches - genetic, genomic, biochemical, physiological, and ecological - to better understand the plant clock and its role in enhancing plant growth and development in the natural world.

@@ -1,0 +1,6 @@
+_site/*
+.bundle
+.vscode
+Gemfile.lock
+*cache
+

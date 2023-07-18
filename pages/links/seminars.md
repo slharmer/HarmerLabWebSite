@@ -8,8 +8,8 @@ permalink: "/links/seminars"
 <h2>Meetings and Seminars</h2>
 <a name="Seminars"></a>
 
-* Harmer/Maloof lab joint group meeting schedule (via Zoom)
-  * [Winter, 2021:  Fridays 10:00 AM ~ 11:00 AM via Zoom](http://malooflab.phytonetworks.org/schedules/group-meeting-schedule-summer-2021/)
+* Harmer/Maloof lab joint group meeting schedule
+  * [Thursdays, 11:00 AM ~ noon](http://malooflab.phytonetworks.org/schedules/group-meeting-schedule/)
 
 <br>
 <br>

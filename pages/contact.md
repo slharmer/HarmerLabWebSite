@@ -13,7 +13,7 @@ The Harmer lab is in the [Department of Plant Biology](http://www-plb.ucdavis.ed
 
 **Stacey Harmer**
 <br>
-*Office:*  2129 Life Sciences
+*Office:*  2129 Green Hall
 <br>
 *Phone:* 530-752-8101
 <br>
@@ -22,7 +22,7 @@ The Harmer lab is in the [Department of Plant Biology](http://www-plb.ucdavis.ed
 
 **Lab**
 <br>
-2123 Life Sciences
+2123 Green Hall
 <br>
 
 **Mailing Address**
@@ -31,6 +31,6 @@ Department of Plant Biology
 <br>
 One Shields Ave.
 <br>
-1002 Life Sciences
+1002 Green Hall
 <br>
 Davis, CA 95616
