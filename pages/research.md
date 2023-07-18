@@ -45,6 +45,8 @@ We are also investigating how XCT, a protein conserved across eukaryotes ([Marti
 We are further investigating the biochemical functions of XCT and determining the cellular pathways in which it acts.
 <br>
 
+<div class="spacer"></div>
+
 <h3>Circadian and environmental control of growth and development</h3>
 <h5>Sunflower heliotropism</h5>
 
