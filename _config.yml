@@ -31,8 +31,8 @@ author: Stacey Harmer
 #
 #   url: /Users/slharmer/HarmerLabWebSite/
 #url: 'https://slharmer.github.io/HarmerLabWebSite'
-baseurl: '/'
-
+baseurl: 'https://slharmer.github.io/HarmerLabWebSite'
+# I changed the above from '/' on July 26,2023
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
