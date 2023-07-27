@@ -30,8 +30,8 @@ author: Stacey Harmer
 #  I THINK I"LL NEED TO COME BACK AND CHANGE LATER
 #
 #   url: /Users/slharmer/HarmerLabWebSite/
-#url: 'https://slharmer.github.io/HarmerLabWebSite'
-baseurl: 'https://slharmer.github.io/HarmerLabWebSite'
+url: 'https://slharmer.github.io/HarmerLabWebSite'
+#baseurl: 'https:///'
 # I changed the above from '/' on July 26,2023
 
 # This is for the editing function in _/includes/improve_content
