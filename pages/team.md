@@ -42,13 +42,13 @@ image="/assets/img/team/nicky-square-sml.jpg" position="Senior Lecturer"%}
 {% include team_member member_name="Rod" full_name="Rod Kumimoto" bio='<a href="mailto:rod@innerplant.com">Rod Kumimoto</a> was a post-doctoral scholar in the Harmer Lab.  He is now Vice President of Research and Development at <a href="https://www.innerplant.com">Innerplant</a>.'
 image="/assets/img/team/rod-squre.jpg" position="Vice President, Research and Development"%}
 
-{% include team_member member_name="Akiva" full_name="Akiva Shalit-Kaneh" bio='<a href="mailto:akivask@gmail.com">Akiva Shalit-Kaneh</a> was a post-doctoral scholar in the Harmer Lab.  He is currently completing a post-doctoral fellowship at <a href="https://plantscience.psu.edu/research/labs/guiltinan/personnel">Penn State</a>, and will soon become a group leader at the <a href="https://www.agri.gov.il/en/units/regionalcenters/4.aspx">Gilat Research Center for Arid & Semi-Arid Agricultural Research, Volcani Center</a>.'
+{% include team_member member_name="Akiva" full_name="Akiva Shalit-Kaneh" bio='<a href="mailto:akivask@gmail.com">Akiva Shalit-Kaneh</a> was a post-doctoral scholar in the Harmer Lab.  He is now a group leader at the <a href="https://www.agri.gov.il/en/units/regionalcenters/4.aspx">Gilat Research Center for Arid & Semi-Arid Agricultural Research, Volcani Center</a>.'
 image="/assets/img/team/akiva-square.jpg"  position="Post-doctoral scholar" %}
 
 {% include team_member member_name="Hagop" full_name="Hagop Atamian" bio='<a href="mailto:atamian@chapman.edu">Hagop Atamian</a> was a post-doctoral scholar in the Harmer Lab.  He is now an Assistant Professor in the <a href="https://www.chapman.edu/our-faculty/hagop-atamian">Schmidt College of Science and Technology</a> at <a href="https://www.chapman.edu/index.aspx">Chapman University</a>. His lab website is <a href="https://hagopatamian.weebly.com">here.</a>'
 image="/assets/img/team/hagop-square.jpg" position="Assistant Professor" %}
 
-{% include team_member member_name="Yuyan" full_name="Yuyan An" bio='<a href="mailto:anyuyan0447@njau.edu.cn">Yuyan An</a> was a visiting scientist in the Harmer Lab.  She is now an Associate Professor in the <a href="http://yyxyenglish.njau.edu.cn">College of Horticulture at Nanjing Agricultural University</a>.'
+{% include team_member member_name="Yuyan" full_name="Yuyan An" bio='<a href="mailto:anyuyan@snnu.edu.cn">Yuyan An</a> was a visiting scientist in the Harmer Lab.  She is now an Associate Professor in the College of Life Sciences at Shaanxi Normal University, Xi’an, China.'
 image="/assets/img/team/yuyan-field.jpg" position="Associate Professor" %}
 
 {% include team_member member_name="Valentina" full_name="Valentina Fanelli" bio='<a href="mailto:valentina.fanelli87@libero.it">Valentina Fanelli</a> was a visiting graduate student in the Harmer Lab.  She is now a post-doctoral fellow at the <a href="https://www.uniba.it/ricerca/dipartimenti/disspa">University of Bari Aldo Moro, Department of Soil Science</a>.'
@@ -57,7 +57,7 @@ image="/assets/img/team/valentina-close.jpg" position="Post-Doctoral Scholar" %}
 {% include team_member member_name="Jennifer" full_name="Jennifer Gray" bio='<a href="mailto:gray.tomilov@gmail.com">Jennifer Gray</a> was a  graduate student in the Harmer Lab.  She is now a free-lance <a href="https://www.graytomilov.com">science writer</a>.'
 image="/assets/img/team/jen-square.jpg" position="Free-lance Science Writer" %}
 
-{% include team_member member_name="Matt" full_name="Matt Jones" bio='<a href="mailto:matthew.jones@essex.ac.uk">Matt Jones</a> was a post-doctoral scholar in the Harmer Lab.  He is now a Lecturer in the <a href="https://www.essex.ac.uk/departments/biological-sciences">School of Biological Sciences,  University of Essex</a>. His lab website is <a href="https://www.essex.ac.uk/people/jones36327/matthew-jones">here.</a>'
+{% include team_member member_name="Matt" full_name="Matt Jones" bio='<a href="mailto:Matt.Jones@glasgow.ac.uk">Matt Jones</a> was a post-doctoral scholar in the Harmer Lab.  He is now a Senior Lecturer in the <a href="https://www.gla.ac.uk/schools/molecularbiosciences/">School of Molecular Biosciences,  University of Glasgow</a>. His lab website is <a href="http://www.joneslab.uk">here.</a>'
 image="/assets/img/team/matt-square.jpg" position="Lecturer" %}
 
 {% include team_member member_name="Polly" full_name="Polly (Yingshan) Hsu" bio='<a href="mailto:pollyhsu@msu.edu">Polly Hsu</a> was a graduate student in the Harmer Lab.  She is now an Assistant Professor in the <a href="https://bmb.natsci.msu.edu"> Department of Biology and Molecular Biology</a>, at <a href="https://msu.edu">Michigan State University</a>. Her lab website is <a href="https://sites.google.com/view/polly-hsu-lab/home">here.</a>'
